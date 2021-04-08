@@ -1,0 +1,1721 @@
+2021-04-07T03:18:32.496336 INFO root - kjmeagher: 52 jobs processed in last minute
+2021-04-07T03:19:31.093582 INFO memory_tracker - olivas: 15 jobs processed in last minute
+2021-04-07T03:19:48.236946 INFO memory_tracker - jnbellinger: 99 jobs processed in last minute
+2021-04-07T03:21:08.990088 INFO tracker - aludez: 30 jobs processed in last minute
+2021-04-07T03:22:23.144562 INFO tracker - dglo: 41 jobs processed in last minute
+2021-04-07T03:23:53.510778 ERROR tracker - ric-evans: memory error: 9054458 KB used
+2021-04-07T03:24:29.180910 INFO tracker - olivas: 39 jobs processed in last minute
+2021-04-07T03:24:55.863258 INFO root - aludez: 88 jobs processed in last minute
+2021-04-07T03:26:02.889219 INFO memory_tracker - kjmeagher: 51 jobs processed in last minute
+2021-04-07T03:26:25.857086 WARNING tracker - colemanalan: timeout: 2875.9480835701956 seconds overdue
+2021-04-07T03:27:47.198093 INFO memory_tracker - nega: 19 jobs processed in last minute
+2021-04-07T03:28:34.731674 WARNING cpuhog - olivas: timeout: 1117.4213500982166 seconds overdue
+2021-04-07T03:30:11.910352 INFO cpuhog - ric-evans: 64 jobs processed in last minute
+2021-04-07T03:31:44.486902 WARNING cpuhog - olivas: timeout: 1773.7052397811194 seconds overdue
+2021-04-07T03:32:35.127219 INFO cpuhog - jnbellinger: 26 jobs processed in last minute
+2021-04-07T03:33:34.333121 WARNING memory_tracker - ric-evans: timeout: 762.2855547495893 seconds overdue
+2021-04-07T03:34:37.129300 INFO root - ric-evans: 35 jobs processed in last minute
+2021-04-07T03:36:08.164757 INFO root - austinschneider: 73 jobs processed in last minute
+2021-04-07T03:36:13.510985 WARNING handlers - kjmeagher: timeout: 2656.3192155689667 seconds overdue
+2021-04-07T03:36:38.364350 INFO tracker - olivas: 74 jobs processed in last minute
+2021-04-07T03:37:15.169325 INFO handlers - clark2668: 18 jobs processed in last minute
+2021-04-07T03:38:32.268571 INFO handlers - blinkdog: 89 jobs processed in last minute
+2021-04-07T03:39:26.207620 INFO tracker - dglo: 79 jobs processed in last minute
+2021-04-07T03:39:58.378268 INFO root - dglo: 36 jobs processed in last minute
+2021-04-07T03:41:26.178599 INFO tracker - nega: 90 jobs processed in last minute
+2021-04-07T03:42:56.741657 INFO root - dglo: 65 jobs processed in last minute
+2021-04-07T03:43:01.355182 INFO tracker - blinkdog: 89 jobs processed in last minute
+2021-04-07T03:44:39.478889 INFO root - colemanalan: 25 jobs processed in last minute
+2021-04-07T03:45:55.096588 WARNING tracker - clark2668: timeout: 1048.0187133923132 seconds overdue
+2021-04-07T03:46:19.585355 INFO handlers - kjmeagher: 70 jobs processed in last minute
+2021-04-07T03:47:50.535803 WARNING cpuhog - clark2668: timeout: 39.40842330681957 seconds overdue
+2021-04-07T03:47:56.854881 INFO tracker - kjmeagher: 81 jobs processed in last minute
+2021-04-07T03:49:19.820858 INFO memory_tracker - aludez: 56 jobs processed in last minute
+2021-04-07T03:49:56.412625 INFO root - kjmeagher: 98 jobs processed in last minute
+2021-04-07T03:50:27.883177 INFO root - dglo: 30 jobs processed in last minute
+2021-04-07T03:50:59.672741 WARNING handlers - nega: timeout: 2815.8826305629605 seconds overdue
+2021-04-07T03:51:45.011556 ERROR handlers - olivas: cpu error: 39.39 used
+2021-04-07T03:53:00.711516 INFO tracker - clark2668: 18 jobs processed in last minute
+2021-04-07T03:54:33.262721 WARNING cpuhog - colemanalan: timeout: 1156.7410960449502 seconds overdue
+2021-04-07T03:54:55.632678 ERROR cpuhog - jnbellinger: memory error: 1521639 KB used
+2021-04-07T03:54:59.308275 WARNING memory_tracker - austinschneider: timeout: 1539.1011205652812 seconds overdue
+2021-04-07T03:55:06.176466 WARNING root - dglo: timeout: 3434.208433691454 seconds overdue
+2021-04-07T03:55:26.618281 WARNING root - nega: timeout: 2203.6160346835136 seconds overdue
+2021-04-07T03:56:44.994059 INFO memory_tracker - dglo: 18 jobs processed in last minute
+2021-04-07T03:57:10.179451 INFO cpuhog - blinkdog: 78 jobs processed in last minute
+2021-04-07T03:58:48.149595 INFO handlers - colemanalan: 85 jobs processed in last minute
+2021-04-07T04:00:14.703894 INFO cpuhog - mskarl: 54 jobs processed in last minute
+2021-04-07T04:01:29.880012 ERROR handlers - colemanalan: memory error: 5654362 KB used
+2021-04-07T04:01:41.360629 INFO memory_tracker - mskarl: 67 jobs processed in last minute
+2021-04-07T04:02:29.476935 INFO tracker - aludez: 10 jobs processed in last minute
+2021-04-07T04:04:01.701736 WARNING cpuhog - colemanalan: timeout: 1528.5158456218533 seconds overdue
+2021-04-07T04:04:22.417100 INFO memory_tracker - aludez: 87 jobs processed in last minute
+2021-04-07T04:04:37.705094 WARNING tracker - austinschneider: timeout: 1903.9714342720272 seconds overdue
+2021-04-07T04:06:09.686561 INFO cpuhog - olivas: 11 jobs processed in last minute
+2021-04-07T04:07:33.386317 INFO memory_tracker - nega: 4 jobs processed in last minute
+2021-04-07T04:08:39.759461 WARNING cpuhog - dglo: timeout: 1955.4946675841195 seconds overdue
+2021-04-07T04:09:48.399344 INFO root - dglo: 61 jobs processed in last minute
+2021-04-07T04:09:59.043906 INFO handlers - colemanalan: 43 jobs processed in last minute
+2021-04-07T04:11:18.247734 ERROR root - blinkdog: memory error: 1387224 KB used
+2021-04-07T04:12:45.245207 INFO cpuhog - olivas: 82 jobs processed in last minute
+2021-04-07T04:14:13.242127 INFO tracker - clark2668: 9 jobs processed in last minute
+2021-04-07T04:15:25.653937 INFO tracker - ric-evans: 14 jobs processed in last minute
+2021-04-07T04:15:29.936989 INFO root - olivas: 88 jobs processed in last minute
+2021-04-07T04:15:43.754559 ERROR handlers - blinkdog: memory error: 5898846 KB used
+2021-04-07T04:15:44.890022 INFO tracker - colemanalan: 9 jobs processed in last minute
+2021-04-07T04:15:55.855398 INFO cpuhog - olivas: 43 jobs processed in last minute
+2021-04-07T04:17:23.065728 INFO root - nega: 50 jobs processed in last minute
+2021-04-07T04:17:35.349376 INFO cpuhog - mskarl: 26 jobs processed in last minute
+2021-04-07T04:19:04.595417 INFO tracker - aludez: 92 jobs processed in last minute
+2021-04-07T04:19:39.453193 INFO handlers - aludez: 64 jobs processed in last minute
+2021-04-07T04:20:32.239795 INFO cpuhog - dglo: 58 jobs processed in last minute
+2021-04-07T04:21:11.118236 WARNING tracker - kjmeagher: timeout: 222.31723728888096 seconds overdue
+2021-04-07T04:22:29.379062 INFO tracker - blinkdog: 91 jobs processed in last minute
+2021-04-07T04:23:18.892153 INFO tracker - nega: 7 jobs processed in last minute
+2021-04-07T04:23:19.380137 WARNING handlers - colemanalan: timeout: 1509.7048116559004 seconds overdue
+2021-04-07T04:24:28.792083 INFO cpuhog - olivas: 22 jobs processed in last minute
+2021-04-07T04:25:16.713832 INFO tracker - nega: 93 jobs processed in last minute
+2021-04-07T04:26:09.404795 INFO memory_tracker - aludez: 86 jobs processed in last minute
+2021-04-07T04:26:42.217896 ERROR root - kjmeagher: memory error: 8238182 KB used
+2021-04-07T04:27:20.262848 INFO memory_tracker - austinschneider: 18 jobs processed in last minute
+2021-04-07T04:27:20.471290 ERROR tracker - clark2668: cpu error: 34.04 used
+2021-04-07T04:28:30.953179 INFO tracker - clark2668: 59 jobs processed in last minute
+2021-04-07T04:29:17.587112 WARNING root - colemanalan: timeout: 521.9335313589604 seconds overdue
+2021-04-07T04:29:39.251842 WARNING memory_tracker - clark2668: timeout: 23.765629080065054 seconds overdue
+2021-04-07T04:31:14.187931 ERROR memory_tracker - dglo: cpu error: 32.98 used
+2021-04-07T04:32:22.208969 INFO tracker - austinschneider: 77 jobs processed in last minute
+2021-04-07T04:33:19.761756 ERROR cpuhog - mskarl: cpu error: 38.67 used
+2021-04-07T04:33:53.455562 INFO root - jnbellinger: 3 jobs processed in last minute
+2021-04-07T04:34:21.212477 INFO root - dglo: 76 jobs processed in last minute
+2021-04-07T04:35:57.803712 WARNING tracker - mskarl: timeout: 1000.5311378468383 seconds overdue
+2021-04-07T04:36:06.344729 INFO cpuhog - colemanalan: 20 jobs processed in last minute
+2021-04-07T04:36:09.052642 WARNING tracker - aludez: timeout: 179.3870055527616 seconds overdue
+2021-04-07T04:36:37.736994 WARNING memory_tracker - clark2668: timeout: 303.253599964661 seconds overdue
+2021-04-07T04:37:34.316756 WARNING memory_tracker - kjmeagher: timeout: 1286.2610803854889 seconds overdue
+2021-04-07T04:38:49.495290 INFO root - austinschneider: 100 jobs processed in last minute
+2021-04-07T04:38:54.817580 INFO root - aludez: 68 jobs processed in last minute
+2021-04-07T04:39:58.846287 INFO tracker - olivas: 99 jobs processed in last minute
+2021-04-07T04:41:14.269724 INFO root - kjmeagher: 99 jobs processed in last minute
+2021-04-07T04:42:49.128044 INFO handlers - dglo: 1 jobs processed in last minute
+2021-04-07T04:43:39.776009 INFO root - mskarl: 34 jobs processed in last minute
+2021-04-07T04:44:54.318169 INFO root - mskarl: 20 jobs processed in last minute
+2021-04-07T04:46:32.246438 WARNING cpuhog - austinschneider: timeout: 1496.076552574661 seconds overdue
+2021-04-07T04:47:09.188016 INFO cpuhog - olivas: 9 jobs processed in last minute
+2021-04-07T04:47:17.005451 WARNING memory_tracker - blinkdog: timeout: 1749.5340961917302 seconds overdue
+2021-04-07T04:47:42.091122 INFO root - colemanalan: 93 jobs processed in last minute
+2021-04-07T04:48:39.454376 INFO handlers - aludez: 38 jobs processed in last minute
+2021-04-07T04:48:47.257697 INFO tracker - colemanalan: 36 jobs processed in last minute
+2021-04-07T04:50:21.847962 ERROR tracker - jnbellinger: memory error: 9012648 KB used
+2021-04-07T04:51:58.306761 ERROR root - dglo: memory error: 2217159 KB used
+2021-04-07T04:52:25.391846 INFO root - ric-evans: 89 jobs processed in last minute
+2021-04-07T04:53:50.895415 WARNING cpuhog - jnbellinger: timeout: 2912.975342826624 seconds overdue
+2021-04-07T04:54:14.783991 INFO memory_tracker - aludez: 50 jobs processed in last minute
+2021-04-07T04:54:55.905150 WARNING cpuhog - ric-evans: timeout: 1573.8025223373754 seconds overdue
+2021-04-07T04:56:17.935257 INFO memory_tracker - ric-evans: 82 jobs processed in last minute
+2021-04-07T04:57:47.995734 INFO root - kjmeagher: 84 jobs processed in last minute
+2021-04-07T04:59:03.133024 WARNING memory_tracker - dglo: timeout: 1076.3590628306574 seconds overdue
+2021-04-07T04:59:41.452906 WARNING cpuhog - clark2668: timeout: 3164.567740263489 seconds overdue
+2021-04-07T04:59:56.970733 INFO root - colemanalan: 54 jobs processed in last minute
+2021-04-07T05:01:30.353157 INFO handlers - kjmeagher: 2 jobs processed in last minute
+2021-04-07T05:02:22.150896 INFO root - aludez: 20 jobs processed in last minute
+2021-04-07T05:03:30.270891 WARNING root - olivas: timeout: 3211.2718472182605 seconds overdue
+2021-04-07T05:04:01.114227 INFO root - ric-evans: 25 jobs processed in last minute
+2021-04-07T05:04:03.636884 INFO tracker - kjmeagher: 73 jobs processed in last minute
+2021-04-07T05:05:15.891341 INFO tracker - ric-evans: 76 jobs processed in last minute
+2021-04-07T05:05:17.017464 WARNING root - clark2668: timeout: 2766.0762749388505 seconds overdue
+2021-04-07T05:06:05.613240 INFO root - kjmeagher: 85 jobs processed in last minute
+2021-04-07T05:07:30.408440 INFO memory_tracker - austinschneider: 45 jobs processed in last minute
+2021-04-07T05:08:40.097500 INFO tracker - clark2668: 45 jobs processed in last minute
+2021-04-07T05:08:44.298696 INFO tracker - olivas: 73 jobs processed in last minute
+2021-04-07T05:09:25.543750 INFO tracker - nega: 3 jobs processed in last minute
+2021-04-07T05:10:16.915172 INFO handlers - nega: 63 jobs processed in last minute
+2021-04-07T05:10:37.161827 INFO root - ric-evans: 95 jobs processed in last minute
+2021-04-07T05:11:06.937379 WARNING handlers - kjmeagher: timeout: 1086.8815292132037 seconds overdue
+2021-04-07T05:11:49.089283 INFO tracker - colemanalan: 14 jobs processed in last minute
+2021-04-07T05:12:17.848162 INFO root - dglo: 91 jobs processed in last minute
+2021-04-07T05:13:33.659853 INFO cpuhog - olivas: 55 jobs processed in last minute
+2021-04-07T05:15:08.126589 WARNING tracker - aludez: timeout: 1740.30852311447 seconds overdue
+2021-04-07T05:16:40.537990 INFO memory_tracker - austinschneider: 75 jobs processed in last minute
+2021-04-07T05:17:16.432563 INFO memory_tracker - aludez: 68 jobs processed in last minute
+2021-04-07T05:18:33.209440 INFO root - ric-evans: 46 jobs processed in last minute
+2021-04-07T05:18:34.462191 INFO tracker - dglo: 71 jobs processed in last minute
+2021-04-07T05:19:29.218751 WARNING root - mskarl: timeout: 2779.2361092739134 seconds overdue
+2021-04-07T05:20:06.884829 INFO root - jnbellinger: 34 jobs processed in last minute
+2021-04-07T05:21:31.307750 WARNING tracker - kjmeagher: timeout: 2986.349552367262 seconds overdue
+2021-04-07T05:23:05.565669 INFO root - jnbellinger: 54 jobs processed in last minute
+2021-04-07T05:24:24.333771 INFO tracker - austinschneider: 92 jobs processed in last minute
+2021-04-07T05:24:59.449759 WARNING root - olivas: timeout: 1011.7372761787253 seconds overdue
+2021-04-07T05:26:04.900751 INFO handlers - olivas: 45 jobs processed in last minute
+2021-04-07T05:27:12.117588 INFO handlers - clark2668: 44 jobs processed in last minute
+2021-04-07T05:27:53.451815 INFO root - aludez: 94 jobs processed in last minute
+2021-04-07T05:28:58.626090 INFO memory_tracker - mskarl: 81 jobs processed in last minute
+2021-04-07T05:30:35.373334 WARNING cpuhog - aludez: timeout: 1001.0588598316729 seconds overdue
+2021-04-07T05:31:19.910032 WARNING cpuhog - blinkdog: timeout: 264.64650814655835 seconds overdue
+2021-04-07T05:32:02.274532 INFO memory_tracker - jnbellinger: 62 jobs processed in last minute
+2021-04-07T05:32:59.477328 INFO cpuhog - mskarl: 33 jobs processed in last minute
+2021-04-07T05:34:13.223940 WARNING cpuhog - dglo: timeout: 1560.3412936366697 seconds overdue
+2021-04-07T05:34:37.904348 INFO tracker - clark2668: 30 jobs processed in last minute
+2021-04-07T05:36:17.825928 INFO tracker - aludez: 25 jobs processed in last minute
+2021-04-07T05:36:50.733140 INFO root - austinschneider: 28 jobs processed in last minute
+2021-04-07T05:38:30.601987 INFO tracker - ric-evans: 65 jobs processed in last minute
+2021-04-07T05:39:20.805080 INFO memory_tracker - kjmeagher: 4 jobs processed in last minute
+2021-04-07T05:39:27.463396 INFO root - colemanalan: 93 jobs processed in last minute
+2021-04-07T05:40:54.821067 INFO tracker - aludez: 83 jobs processed in last minute
+2021-04-07T05:40:54.851734 INFO root - ric-evans: 4 jobs processed in last minute
+2021-04-07T05:41:06.073719 ERROR cpuhog - colemanalan: cpu error: 38.60 used
+2021-04-07T05:41:46.188720 INFO tracker - austinschneider: 96 jobs processed in last minute
+2021-04-07T05:42:16.941321 INFO tracker - nega: 21 jobs processed in last minute
+2021-04-07T05:43:00.138290 WARNING cpuhog - olivas: timeout: 1110.16877130817 seconds overdue
+2021-04-07T05:44:22.712198 WARNING cpuhog - austinschneider: timeout: 2633.118085875217 seconds overdue
+2021-04-07T05:44:25.219714 INFO tracker - olivas: 91 jobs processed in last minute
+2021-04-07T05:45:20.858154 INFO memory_tracker - austinschneider: 82 jobs processed in last minute
+2021-04-07T05:45:59.114803 INFO memory_tracker - mskarl: 4 jobs processed in last minute
+2021-04-07T05:46:09.920550 INFO handlers - nega: 26 jobs processed in last minute
+2021-04-07T05:46:10.569859 INFO cpuhog - blinkdog: 23 jobs processed in last minute
+2021-04-07T05:47:49.397005 INFO memory_tracker - blinkdog: 50 jobs processed in last minute
+2021-04-07T05:48:22.498359 INFO cpuhog - kjmeagher: 59 jobs processed in last minute
+2021-04-07T05:49:53.929431 INFO memory_tracker - aludez: 59 jobs processed in last minute
+2021-04-07T05:51:09.535749 ERROR cpuhog - nega: cpu error: 34.54 used
+2021-04-07T05:51:48.810021 INFO memory_tracker - dglo: 69 jobs processed in last minute
+2021-04-07T05:51:56.193990 INFO cpuhog - nega: 1 jobs processed in last minute
+2021-04-07T05:52:19.540535 WARNING root - aludez: timeout: 2935.087837675108 seconds overdue
+2021-04-07T05:53:41.738384 INFO tracker - jnbellinger: 15 jobs processed in last minute
+2021-04-07T05:54:56.191794 WARNING handlers - blinkdog: timeout: 3193.7011183444406 seconds overdue
+2021-04-07T05:54:59.242567 WARNING cpuhog - ric-evans: timeout: 1803.5904133095694 seconds overdue
+2021-04-07T05:55:41.001097 ERROR cpuhog - colemanalan: cpu error: 36.05 used
+2021-04-07T05:56:00.320713 INFO handlers - kjmeagher: 36 jobs processed in last minute
+2021-04-07T05:57:36.172942 INFO memory_tracker - aludez: 15 jobs processed in last minute
+2021-04-07T05:58:38.412142 INFO tracker - dglo: 60 jobs processed in last minute
+2021-04-07T05:59:05.867434 INFO cpuhog - dglo: 96 jobs processed in last minute
+2021-04-07T06:00:08.365672 INFO memory_tracker - nega: 51 jobs processed in last minute
+2021-04-07T06:00:14.948659 WARNING root - kjmeagher: timeout: 3205.3804991436227 seconds overdue
+2021-04-07T06:01:27.100520 INFO cpuhog - austinschneider: 35 jobs processed in last minute
+2021-04-07T06:01:46.336062 INFO memory_tracker - olivas: 32 jobs processed in last minute
+2021-04-07T06:03:24.594307 WARNING memory_tracker - kjmeagher: timeout: 2440.07073998218 seconds overdue
+2021-04-07T06:04:34.867303 INFO cpuhog - colemanalan: 52 jobs processed in last minute
+2021-04-07T06:06:04.265441 ERROR tracker - blinkdog: cpu error: 32.49 used
+2021-04-07T06:06:24.484959 INFO cpuhog - ric-evans: 41 jobs processed in last minute
+2021-04-07T06:07:38.871710 INFO memory_tracker - clark2668: 37 jobs processed in last minute
+2021-04-07T06:07:46.548224 INFO tracker - austinschneider: 47 jobs processed in last minute
+2021-04-07T06:08:24.708404 INFO memory_tracker - aludez: 47 jobs processed in last minute
+2021-04-07T06:09:05.618009 INFO root - clark2668: 91 jobs processed in last minute
+2021-04-07T06:09:42.454422 INFO root - olivas: 63 jobs processed in last minute
+2021-04-07T06:10:41.119317 ERROR root - colemanalan: cpu error: 38.40 used
+2021-04-07T06:10:43.919726 INFO tracker - jnbellinger: 6 jobs processed in last minute
+2021-04-07T06:11:18.097263 INFO cpuhog - clark2668: 25 jobs processed in last minute
+2021-04-07T06:11:32.850240 WARNING handlers - jnbellinger: timeout: 1377.3080788875784 seconds overdue
+2021-04-07T06:13:05.406833 INFO root - olivas: 34 jobs processed in last minute
+2021-04-07T06:14:35.894736 WARNING handlers - clark2668: timeout: 3402.796445390953 seconds overdue
+2021-04-07T06:14:49.379326 INFO cpuhog - clark2668: 45 jobs processed in last minute
+2021-04-07T06:15:36.156618 INFO root - austinschneider: 50 jobs processed in last minute
+2021-04-07T06:17:13.390498 INFO cpuhog - jnbellinger: 12 jobs processed in last minute
+2021-04-07T06:17:34.527906 INFO tracker - jnbellinger: 11 jobs processed in last minute
+2021-04-07T06:17:42.974362 WARNING handlers - austinschneider: timeout: 2953.999537233766 seconds overdue
+2021-04-07T06:17:46.951244 WARNING memory_tracker - blinkdog: timeout: 2579.150978121089 seconds overdue
+2021-04-07T06:18:03.920946 INFO tracker - ric-evans: 97 jobs processed in last minute
+2021-04-07T06:19:22.400137 INFO tracker - blinkdog: 67 jobs processed in last minute
+2021-04-07T06:20:44.679622 INFO handlers - ric-evans: 65 jobs processed in last minute
+2021-04-07T06:22:15.726578 INFO tracker - dglo: 57 jobs processed in last minute
+2021-04-07T06:23:33.865540 ERROR cpuhog - blinkdog: memory error: 9711887 KB used
+2021-04-07T06:23:42.720878 WARNING memory_tracker - blinkdog: timeout: 2995.0195110720388 seconds overdue
+2021-04-07T06:23:58.953349 INFO memory_tracker - aludez: 76 jobs processed in last minute
+2021-04-07T06:24:11.037952 WARNING tracker - dglo: timeout: 3109.1494756245506 seconds overdue
+2021-04-07T06:25:09.356340 INFO memory_tracker - aludez: 5 jobs processed in last minute
+2021-04-07T06:25:22.753192 INFO root - colemanalan: 44 jobs processed in last minute
+2021-04-07T06:26:50.382127 INFO memory_tracker - olivas: 42 jobs processed in last minute
+2021-04-07T06:28:02.837669 INFO tracker - aludez: 25 jobs processed in last minute
+2021-04-07T06:28:36.085433 INFO tracker - nega: 29 jobs processed in last minute
+2021-04-07T06:28:47.180264 WARNING tracker - clark2668: timeout: 1264.665987190626 seconds overdue
+2021-04-07T06:29:29.051813 ERROR tracker - austinschneider: cpu error: 38.52 used
+2021-04-07T06:31:00.724315 INFO cpuhog - austinschneider: 51 jobs processed in last minute
+2021-04-07T06:31:46.839335 INFO memory_tracker - ric-evans: 26 jobs processed in last minute
+2021-04-07T06:32:06.412522 WARNING tracker - dglo: timeout: 495.7351826128931 seconds overdue
+2021-04-07T06:32:56.117476 INFO tracker - jnbellinger: 70 jobs processed in last minute
+2021-04-07T06:34:15.321771 INFO root - jnbellinger: 45 jobs processed in last minute
+2021-04-07T06:35:37.260339 INFO tracker - clark2668: 8 jobs processed in last minute
+2021-04-07T06:36:05.141813 INFO cpuhog - clark2668: 49 jobs processed in last minute
+2021-04-07T06:36:11.733036 INFO cpuhog - aludez: 82 jobs processed in last minute
+2021-04-07T06:37:49.263114 WARNING root - dglo: timeout: 2006.4568704320218 seconds overdue
+2021-04-07T06:38:08.385335 ERROR cpuhog - nega: cpu error: 30.06 used
+2021-04-07T06:38:11.942686 INFO handlers - colemanalan: 44 jobs processed in last minute
+2021-04-07T06:39:31.225143 INFO handlers - mskarl: 23 jobs processed in last minute
+2021-04-07T06:39:43.614021 WARNING cpuhog - kjmeagher: timeout: 183.87650294782136 seconds overdue
+2021-04-07T06:41:10.956517 INFO cpuhog - mskarl: 9 jobs processed in last minute
+2021-04-07T06:42:00.465374 WARNING root - colemanalan: timeout: 378.7060721849034 seconds overdue
+2021-04-07T06:42:57.141228 INFO cpuhog - colemanalan: 51 jobs processed in last minute
+2021-04-07T06:42:59.672584 INFO root - ric-evans: 94 jobs processed in last minute
+2021-04-07T06:44:14.104727 INFO tracker - olivas: 89 jobs processed in last minute
+2021-04-07T06:45:22.743500 INFO memory_tracker - jnbellinger: 91 jobs processed in last minute
+2021-04-07T06:46:51.532068 WARNING cpuhog - clark2668: timeout: 427.4340248067611 seconds overdue
+2021-04-07T06:48:28.219713 INFO handlers - olivas: 27 jobs processed in last minute
+2021-04-07T06:49:29.643317 INFO handlers - nega: 2 jobs processed in last minute
+2021-04-07T06:49:57.661456 INFO handlers - jnbellinger: 95 jobs processed in last minute
+2021-04-07T06:50:40.048109 WARNING cpuhog - clark2668: timeout: 646.270962495399 seconds overdue
+2021-04-07T06:51:37.780472 INFO root - aludez: 19 jobs processed in last minute
+2021-04-07T06:52:24.184169 INFO memory_tracker - dglo: 42 jobs processed in last minute
+2021-04-07T06:53:49.180815 INFO cpuhog - mskarl: 16 jobs processed in last minute
+2021-04-07T06:54:04.232899 WARNING handlers - colemanalan: timeout: 1904.152111275909 seconds overdue
+2021-04-07T06:54:22.100999 WARNING root - jnbellinger: timeout: 647.6688268822007 seconds overdue
+2021-04-07T06:55:54.831594 INFO root - kjmeagher: 58 jobs processed in last minute
+2021-04-07T06:56:38.296233 ERROR tracker - jnbellinger: cpu error: 31.35 used
+2021-04-07T06:57:03.981803 INFO tracker - olivas: 84 jobs processed in last minute
+2021-04-07T06:57:07.681685 INFO cpuhog - ric-evans: 7 jobs processed in last minute
+2021-04-07T06:57:57.590283 INFO tracker - aludez: 59 jobs processed in last minute
+2021-04-07T06:58:48.980530 INFO root - clark2668: 81 jobs processed in last minute
+2021-04-07T06:58:51.382347 INFO tracker - kjmeagher: 63 jobs processed in last minute
+2021-04-07T06:58:54.031751 INFO memory_tracker - jnbellinger: 20 jobs processed in last minute
+2021-04-07T06:59:33.206082 INFO handlers - nega: 53 jobs processed in last minute
+2021-04-07T06:59:53.215709 INFO handlers - olivas: 70 jobs processed in last minute
+2021-04-07T06:59:57.130249 WARNING memory_tracker - colemanalan: timeout: 3260.185594223038 seconds overdue
+2021-04-07T07:00:24.046891 INFO handlers - olivas: 55 jobs processed in last minute
+2021-04-07T07:00:49.975593 INFO root - ric-evans: 94 jobs processed in last minute
+2021-04-07T07:01:10.217542 INFO handlers - ric-evans: 85 jobs processed in last minute
+2021-04-07T07:02:12.301225 INFO root - jnbellinger: 56 jobs processed in last minute
+2021-04-07T07:03:39.111898 INFO memory_tracker - kjmeagher: 51 jobs processed in last minute
+2021-04-07T07:04:20.284156 WARNING root - nega: timeout: 635.7972279968284 seconds overdue
+2021-04-07T07:05:42.066857 INFO handlers - kjmeagher: 22 jobs processed in last minute
+2021-04-07T07:07:01.869646 INFO cpuhog - colemanalan: 80 jobs processed in last minute
+2021-04-07T07:08:40.075953 INFO cpuhog - ric-evans: 17 jobs processed in last minute
+2021-04-07T07:09:19.481149 INFO root - colemanalan: 82 jobs processed in last minute
+2021-04-07T07:10:52.768554 INFO root - mskarl: 44 jobs processed in last minute
+2021-04-07T07:12:02.024923 ERROR root - mskarl: cpu error: 35.49 used
+2021-04-07T07:13:38.693225 INFO cpuhog - colemanalan: 80 jobs processed in last minute
+2021-04-07T07:13:50.483948 INFO handlers - mskarl: 64 jobs processed in last minute
+2021-04-07T07:14:54.531706 INFO root - nega: 17 jobs processed in last minute
+2021-04-07T07:16:23.673568 WARNING tracker - dglo: timeout: 1752.0592204768313 seconds overdue
+2021-04-07T07:17:59.128390 INFO memory_tracker - olivas: 54 jobs processed in last minute
+2021-04-07T07:18:39.920761 INFO tracker - jnbellinger: 32 jobs processed in last minute
+2021-04-07T07:19:12.260145 INFO handlers - ric-evans: 86 jobs processed in last minute
+2021-04-07T07:19:38.544068 INFO cpuhog - colemanalan: 24 jobs processed in last minute
+2021-04-07T07:19:45.746007 WARNING cpuhog - clark2668: timeout: 3563.390468528185 seconds overdue
+2021-04-07T07:19:46.683214 INFO root - olivas: 45 jobs processed in last minute
+2021-04-07T07:19:54.192432 INFO memory_tracker - kjmeagher: 100 jobs processed in last minute
+2021-04-07T07:21:06.502879 INFO cpuhog - blinkdog: 29 jobs processed in last minute
+2021-04-07T07:22:46.235429 INFO memory_tracker - ric-evans: 77 jobs processed in last minute
+2021-04-07T07:23:59.268436 INFO cpuhog - nega: 86 jobs processed in last minute
+2021-04-07T07:24:12.477520 INFO root - aludez: 24 jobs processed in last minute
+2021-04-07T07:24:33.024430 WARNING root - blinkdog: timeout: 2305.188999053181 seconds overdue
+2021-04-07T07:25:08.441041 WARNING handlers - blinkdog: timeout: 2404.975260144428 seconds overdue
+2021-04-07T07:25:16.638968 WARNING tracker - aludez: timeout: 1402.2427136882734 seconds overdue
+2021-04-07T07:26:45.871350 INFO tracker - austinschneider: 78 jobs processed in last minute
+2021-04-07T07:28:09.529971 ERROR memory_tracker - ric-evans: cpu error: 38.13 used
+2021-04-07T07:28:37.497120 INFO tracker - jnbellinger: 66 jobs processed in last minute
+2021-04-07T07:29:35.620290 INFO handlers - ric-evans: 20 jobs processed in last minute
+2021-04-07T07:30:34.188954 INFO root - austinschneider: 76 jobs processed in last minute
+2021-04-07T07:31:05.308558 INFO handlers - jnbellinger: 90 jobs processed in last minute
+2021-04-07T07:32:16.132841 INFO cpuhog - kjmeagher: 56 jobs processed in last minute
+2021-04-07T07:33:00.212350 INFO tracker - clark2668: 17 jobs processed in last minute
+2021-04-07T07:33:46.475234 WARNING cpuhog - olivas: timeout: 998.9445986790759 seconds overdue
+2021-04-07T07:34:34.424470 WARNING cpuhog - clark2668: timeout: 170.32425988545108 seconds overdue
+2021-04-07T07:35:43.705626 INFO root - olivas: 89 jobs processed in last minute
+2021-04-07T07:37:09.794836 INFO memory_tracker - colemanalan: 50 jobs processed in last minute
+2021-04-07T07:38:03.469187 INFO root - dglo: 24 jobs processed in last minute
+2021-04-07T07:38:34.295424 INFO root - aludez: 27 jobs processed in last minute
+2021-04-07T07:40:00.834794 WARNING memory_tracker - colemanalan: timeout: 1081.8514207498981 seconds overdue
+2021-04-07T07:40:50.175145 INFO memory_tracker - clark2668: 63 jobs processed in last minute
+2021-04-07T07:41:13.529578 ERROR handlers - mskarl: memory error: 3251587 KB used
+2021-04-07T07:42:30.425601 INFO cpuhog - ric-evans: 75 jobs processed in last minute
+2021-04-07T07:42:57.553123 WARNING memory_tracker - colemanalan: timeout: 1741.210792826497 seconds overdue
+2021-04-07T07:43:24.261110 WARNING root - dglo: timeout: 3166.062317461605 seconds overdue
+2021-04-07T07:44:08.144652 INFO tracker - austinschneider: 30 jobs processed in last minute
+2021-04-07T07:44:32.284009 INFO cpuhog - blinkdog: 30 jobs processed in last minute
+2021-04-07T07:45:21.966256 INFO root - kjmeagher: 12 jobs processed in last minute
+2021-04-07T07:46:08.788037 ERROR handlers - nega: cpu error: 33.48 used
+2021-04-07T07:47:34.812920 WARNING handlers - olivas: timeout: 1032.8434527102268 seconds overdue
+2021-04-07T07:48:50.990827 INFO handlers - colemanalan: 8 jobs processed in last minute
+2021-04-07T07:49:49.949234 INFO handlers - colemanalan: 74 jobs processed in last minute
+2021-04-07T07:51:25.032533 INFO handlers - ric-evans: 41 jobs processed in last minute
+2021-04-07T07:51:41.360472 INFO root - dglo: 70 jobs processed in last minute
+2021-04-07T07:52:24.970923 ERROR handlers - kjmeagher: memory error: 7615690 KB used
+2021-04-07T07:53:04.010423 WARNING memory_tracker - nega: timeout: 2259.789568775446 seconds overdue
+2021-04-07T07:54:11.598681 WARNING handlers - olivas: timeout: 1119.767016315527 seconds overdue
+2021-04-07T07:54:59.755344 INFO tracker - mskarl: 83 jobs processed in last minute
+2021-04-07T07:55:21.593936 INFO root - mskarl: 21 jobs processed in last minute
+2021-04-07T07:56:47.748303 INFO handlers - olivas: 19 jobs processed in last minute
+2021-04-07T07:57:30.587450 ERROR tracker - nega: cpu error: 39.55 used
+2021-04-07T07:57:52.451591 INFO memory_tracker - blinkdog: 5 jobs processed in last minute
+2021-04-07T07:57:56.026850 WARNING handlers - ric-evans: timeout: 1973.4725730541782 seconds overdue
+2021-04-07T07:58:59.582320 INFO cpuhog - aludez: 65 jobs processed in last minute
+2021-04-07T08:00:01.592897 WARNING root - colemanalan: timeout: 1216.2494278659606 seconds overdue
+2021-04-07T08:01:34.846895 WARNING cpuhog - ric-evans: timeout: 3066.509416012352 seconds overdue
+2021-04-07T08:02:13.126975 WARNING cpuhog - ric-evans: timeout: 2552.10055942021 seconds overdue
+2021-04-07T08:02:56.606272 INFO tracker - jnbellinger: 70 jobs processed in last minute
+2021-04-07T08:03:56.860451 INFO tracker - mskarl: 39 jobs processed in last minute
+2021-04-07T08:05:05.363952 INFO handlers - colemanalan: 35 jobs processed in last minute
+2021-04-07T08:06:43.231639 WARNING memory_tracker - kjmeagher: timeout: 2237.3056961493135 seconds overdue
+2021-04-07T08:06:46.087402 WARNING handlers - kjmeagher: timeout: 2224.264761591651 seconds overdue
+2021-04-07T08:06:47.660908 INFO cpuhog - blinkdog: 56 jobs processed in last minute
+2021-04-07T08:07:57.101958 INFO memory_tracker - jnbellinger: 31 jobs processed in last minute
+2021-04-07T08:07:59.874056 INFO cpuhog - mskarl: 58 jobs processed in last minute
+2021-04-07T08:09:09.127439 INFO tracker - colemanalan: 41 jobs processed in last minute
+2021-04-07T08:10:18.647445 INFO cpuhog - clark2668: 20 jobs processed in last minute
+2021-04-07T08:10:38.723385 WARNING cpuhog - olivas: timeout: 2002.5162146528296 seconds overdue
+2021-04-07T08:11:04.491848 INFO root - clark2668: 50 jobs processed in last minute
+2021-04-07T08:12:17.098547 INFO root - dglo: 99 jobs processed in last minute
+2021-04-07T08:13:41.617551 INFO memory_tracker - olivas: 10 jobs processed in last minute
+2021-04-07T08:13:54.590175 INFO root - kjmeagher: 28 jobs processed in last minute
+2021-04-07T08:14:18.592879 INFO handlers - clark2668: 69 jobs processed in last minute
+2021-04-07T08:15:53.418835 INFO root - mskarl: 56 jobs processed in last minute
+2021-04-07T08:16:42.417230 INFO handlers - ric-evans: 20 jobs processed in last minute
+2021-04-07T08:16:52.472815 ERROR cpuhog - austinschneider: cpu error: 36.85 used
+2021-04-07T08:16:52.852511 INFO root - jnbellinger: 85 jobs processed in last minute
+2021-04-07T08:18:19.907467 INFO handlers - dglo: 63 jobs processed in last minute
+2021-04-07T08:19:16.069075 WARNING handlers - jnbellinger: timeout: 311.45111127072187 seconds overdue
+2021-04-07T08:20:04.550375 INFO cpuhog - blinkdog: 56 jobs processed in last minute
+2021-04-07T08:20:57.764502 INFO cpuhog - ric-evans: 59 jobs processed in last minute
+2021-04-07T08:22:01.526043 INFO tracker - aludez: 43 jobs processed in last minute
+2021-04-07T08:22:37.317329 INFO tracker - mskarl: 87 jobs processed in last minute
+2021-04-07T08:23:45.271181 INFO memory_tracker - kjmeagher: 87 jobs processed in last minute
+2021-04-07T08:25:02.338140 WARNING tracker - kjmeagher: timeout: 1850.97935328237 seconds overdue
+2021-04-07T08:26:42.156533 INFO handlers - kjmeagher: 5 jobs processed in last minute
+2021-04-07T08:26:52.150277 INFO tracker - dglo: 38 jobs processed in last minute
+2021-04-07T08:26:54.366742 INFO memory_tracker - nega: 52 jobs processed in last minute
+2021-04-07T08:28:11.588707 INFO cpuhog - clark2668: 24 jobs processed in last minute
+2021-04-07T08:28:22.928676 INFO memory_tracker - clark2668: 41 jobs processed in last minute
+2021-04-07T08:29:18.663917 ERROR tracker - dglo: cpu error: 31.79 used
+2021-04-07T08:29:48.200834 WARNING handlers - ric-evans: timeout: 1195.1098992570544 seconds overdue
+2021-04-07T08:31:24.913583 ERROR memory_tracker - dglo: cpu error: 37.19 used
+2021-04-07T08:32:34.792911 INFO root - aludez: 46 jobs processed in last minute
+2021-04-07T08:33:24.851353 WARNING memory_tracker - dglo: timeout: 2229.6897264221316 seconds overdue
+2021-04-07T08:34:47.911189 INFO handlers - dglo: 73 jobs processed in last minute
+2021-04-07T08:34:56.177736 INFO tracker - mskarl: 17 jobs processed in last minute
+2021-04-07T08:35:58.020270 INFO handlers - ric-evans: 25 jobs processed in last minute
+2021-04-07T08:36:52.040740 INFO tracker - ric-evans: 75 jobs processed in last minute
+2021-04-07T08:38:01.119815 INFO memory_tracker - olivas: 52 jobs processed in last minute
+2021-04-07T08:39:03.406524 INFO cpuhog - ric-evans: 98 jobs processed in last minute
+2021-04-07T08:39:52.227081 INFO cpuhog - dglo: 36 jobs processed in last minute
+2021-04-07T08:40:45.833671 INFO cpuhog - austinschneider: 51 jobs processed in last minute
+2021-04-07T08:41:31.933071 ERROR memory_tracker - blinkdog: memory error: 7132356 KB used
+2021-04-07T08:42:53.759080 INFO memory_tracker - mskarl: 70 jobs processed in last minute
+2021-04-07T08:44:15.142156 INFO memory_tracker - austinschneider: 90 jobs processed in last minute
+2021-04-07T08:44:45.729929 INFO tracker - austinschneider: 88 jobs processed in last minute
+2021-04-07T08:46:23.382891 INFO root - austinschneider: 59 jobs processed in last minute
+2021-04-07T08:47:11.615158 INFO cpuhog - nega: 32 jobs processed in last minute
+2021-04-07T08:47:34.428114 INFO root - austinschneider: 84 jobs processed in last minute
+2021-04-07T08:47:55.168518 WARNING tracker - ric-evans: timeout: 2818.213810338599 seconds overdue
+2021-04-07T08:48:55.661442 INFO tracker - kjmeagher: 95 jobs processed in last minute
+2021-04-07T08:49:51.500526 INFO handlers - olivas: 68 jobs processed in last minute
+2021-04-07T08:50:04.238113 WARNING tracker - clark2668: timeout: 2082.552501207449 seconds overdue
+2021-04-07T08:50:11.507620 INFO memory_tracker - kjmeagher: 77 jobs processed in last minute
+2021-04-07T08:51:11.249935 INFO memory_tracker - colemanalan: 53 jobs processed in last minute
+2021-04-07T08:52:02.501465 INFO cpuhog - aludez: 59 jobs processed in last minute
+2021-04-07T08:53:21.385313 WARNING handlers - olivas: timeout: 2894.814883423528 seconds overdue
+2021-04-07T08:53:25.795170 INFO root - kjmeagher: 50 jobs processed in last minute
+2021-04-07T08:54:43.417214 INFO root - aludez: 95 jobs processed in last minute
+2021-04-07T08:55:28.342164 INFO tracker - dglo: 25 jobs processed in last minute
+2021-04-07T08:57:04.642915 INFO root - mskarl: 7 jobs processed in last minute
+2021-04-07T08:57:32.182392 INFO handlers - aludez: 53 jobs processed in last minute
+2021-04-07T08:58:48.843124 INFO tracker - jnbellinger: 62 jobs processed in last minute
+2021-04-07T08:59:26.690207 INFO cpuhog - aludez: 61 jobs processed in last minute
+2021-04-07T08:59:34.268535 INFO tracker - aludez: 42 jobs processed in last minute
+2021-04-07T09:00:20.285340 INFO cpuhog - kjmeagher: 97 jobs processed in last minute
+2021-04-07T09:01:07.029710 INFO memory_tracker - aludez: 91 jobs processed in last minute
+2021-04-07T09:01:21.440231 INFO tracker - ric-evans: 47 jobs processed in last minute
+2021-04-07T09:02:59.859183 INFO root - blinkdog: 4 jobs processed in last minute
+2021-04-07T09:03:51.610566 INFO cpuhog - nega: 70 jobs processed in last minute
+2021-04-07T09:04:20.031604 WARNING memory_tracker - olivas: timeout: 1912.3826272401766 seconds overdue
+2021-04-07T09:04:46.444008 INFO memory_tracker - austinschneider: 4 jobs processed in last minute
+2021-04-07T09:05:40.592214 ERROR tracker - jnbellinger: memory error: 4341192 KB used
+2021-04-07T09:07:16.680888 WARNING memory_tracker - nega: timeout: 2410.2787292030753 seconds overdue
+2021-04-07T09:08:11.541559 INFO root - ric-evans: 73 jobs processed in last minute
+2021-04-07T09:09:04.050664 INFO handlers - mskarl: 2 jobs processed in last minute
+2021-04-07T09:10:17.797398 INFO tracker - kjmeagher: 40 jobs processed in last minute
+2021-04-07T09:11:38.616845 INFO tracker - nega: 42 jobs processed in last minute
+2021-04-07T09:12:25.514282 WARNING root - colemanalan: timeout: 1371.622481524873 seconds overdue
+2021-04-07T09:13:12.783596 WARNING memory_tracker - mskarl: timeout: 2309.618941773238 seconds overdue
+2021-04-07T09:14:26.382126 INFO root - blinkdog: 70 jobs processed in last minute
+2021-04-07T09:14:27.775095 INFO root - kjmeagher: 48 jobs processed in last minute
+2021-04-07T09:14:39.010455 WARNING handlers - aludez: timeout: 2210.375605533711 seconds overdue
+2021-04-07T09:14:54.390191 INFO cpuhog - aludez: 23 jobs processed in last minute
+2021-04-07T09:15:02.154532 WARNING tracker - olivas: timeout: 970.9524318555673 seconds overdue
+2021-04-07T09:16:09.340464 INFO tracker - kjmeagher: 74 jobs processed in last minute
+2021-04-07T09:16:46.079769 INFO tracker - dglo: 40 jobs processed in last minute
+2021-04-07T09:17:46.777126 WARNING handlers - colemanalan: timeout: 2589.0267732779866 seconds overdue
+2021-04-07T09:18:01.324095 INFO root - colemanalan: 82 jobs processed in last minute
+2021-04-07T09:18:53.822745 WARNING cpuhog - clark2668: timeout: 2740.527469444632 seconds overdue
+2021-04-07T09:19:27.473240 WARNING tracker - jnbellinger: timeout: 2838.734293306406 seconds overdue
+2021-04-07T09:19:52.784354 INFO tracker - ric-evans: 61 jobs processed in last minute
+2021-04-07T09:20:13.198271 INFO memory_tracker - clark2668: 18 jobs processed in last minute
+2021-04-07T09:21:50.360837 INFO root - nega: 41 jobs processed in last minute
+2021-04-07T09:23:01.235923 INFO handlers - mskarl: 92 jobs processed in last minute
+2021-04-07T09:23:18.827214 INFO root - olivas: 37 jobs processed in last minute
+2021-04-07T09:24:53.158341 INFO root - mskarl: 39 jobs processed in last minute
+2021-04-07T09:24:55.061771 WARNING root - austinschneider: timeout: 577.138216449878 seconds overdue
+2021-04-07T09:25:47.406738 INFO handlers - aludez: 97 jobs processed in last minute
+2021-04-07T09:27:12.646896 INFO root - dglo: 25 jobs processed in last minute
+2021-04-07T09:28:26.466035 WARNING memory_tracker - colemanalan: timeout: 2147.722739244248 seconds overdue
+2021-04-07T09:28:38.147003 INFO cpuhog - ric-evans: 88 jobs processed in last minute
+2021-04-07T09:29:16.740543 INFO cpuhog - dglo: 11 jobs processed in last minute
+2021-04-07T09:30:31.229726 INFO root - nega: 16 jobs processed in last minute
+2021-04-07T09:31:13.218813 INFO cpuhog - dglo: 62 jobs processed in last minute
+2021-04-07T09:32:41.213421 INFO root - ric-evans: 69 jobs processed in last minute
+2021-04-07T09:32:48.846356 INFO memory_tracker - jnbellinger: 100 jobs processed in last minute
+2021-04-07T09:34:28.131400 INFO tracker - kjmeagher: 91 jobs processed in last minute
+2021-04-07T09:35:41.652361 INFO memory_tracker - olivas: 78 jobs processed in last minute
+2021-04-07T09:37:02.675297 INFO tracker - olivas: 13 jobs processed in last minute
+2021-04-07T09:37:05.033373 INFO handlers - aludez: 62 jobs processed in last minute
+2021-04-07T09:38:32.243631 INFO memory_tracker - clark2668: 59 jobs processed in last minute
+2021-04-07T09:40:01.359515 INFO cpuhog - dglo: 63 jobs processed in last minute
+2021-04-07T09:40:57.106021 INFO root - olivas: 88 jobs processed in last minute
+2021-04-07T09:41:23.367049 INFO tracker - blinkdog: 89 jobs processed in last minute
+2021-04-07T09:42:12.447246 INFO cpuhog - jnbellinger: 47 jobs processed in last minute
+2021-04-07T09:43:25.856725 INFO memory_tracker - aludez: 94 jobs processed in last minute
+2021-04-07T09:44:53.290806 INFO memory_tracker - austinschneider: 46 jobs processed in last minute
+2021-04-07T09:45:08.996324 WARNING root - ric-evans: timeout: 733.1304851103602 seconds overdue
+2021-04-07T09:46:27.840625 INFO root - mskarl: 62 jobs processed in last minute
+2021-04-07T09:46:38.697909 WARNING root - aludez: timeout: 395.3411028790453 seconds overdue
+2021-04-07T09:46:45.401732 INFO handlers - aludez: 84 jobs processed in last minute
+2021-04-07T09:48:19.292845 INFO memory_tracker - clark2668: 2 jobs processed in last minute
+2021-04-07T09:48:49.551663 INFO root - kjmeagher: 55 jobs processed in last minute
+2021-04-07T09:49:20.063732 INFO cpuhog - colemanalan: 62 jobs processed in last minute
+2021-04-07T09:50:44.923464 WARNING handlers - dglo: timeout: 1269.9652066776544 seconds overdue
+2021-04-07T09:51:50.673453 INFO tracker - austinschneider: 11 jobs processed in last minute
+2021-04-07T09:52:06.680831 INFO cpuhog - aludez: 71 jobs processed in last minute
+2021-04-07T09:52:17.889762 INFO cpuhog - olivas: 58 jobs processed in last minute
+2021-04-07T09:52:56.782439 INFO tracker - kjmeagher: 38 jobs processed in last minute
+2021-04-07T09:54:25.222715 INFO root - nega: 100 jobs processed in last minute
+2021-04-07T09:54:54.761777 WARNING memory_tracker - jnbellinger: timeout: 3110.961044668555 seconds overdue
+2021-04-07T09:56:01.837404 INFO cpuhog - olivas: 8 jobs processed in last minute
+2021-04-07T09:57:18.788029 INFO memory_tracker - olivas: 4 jobs processed in last minute
+2021-04-07T09:58:40.647687 INFO memory_tracker - jnbellinger: 86 jobs processed in last minute
+2021-04-07T10:00:09.433620 INFO handlers - kjmeagher: 14 jobs processed in last minute
+2021-04-07T10:01:36.234661 INFO handlers - colemanalan: 66 jobs processed in last minute
+2021-04-07T10:03:09.115741 WARNING cpuhog - clark2668: timeout: 2534.0018910531435 seconds overdue
+2021-04-07T10:04:26.802046 INFO handlers - dglo: 9 jobs processed in last minute
+2021-04-07T10:05:48.318048 INFO cpuhog - nega: 54 jobs processed in last minute
+2021-04-07T10:06:02.449118 WARNING root - kjmeagher: timeout: 832.3808201722009 seconds overdue
+2021-04-07T10:06:44.664875 WARNING root - austinschneider: timeout: 2908.999603675074 seconds overdue
+2021-04-07T10:07:22.588709 INFO handlers - colemanalan: 92 jobs processed in last minute
+2021-04-07T10:08:39.878960 INFO tracker - nega: 50 jobs processed in last minute
+2021-04-07T10:08:57.148184 INFO handlers - dglo: 93 jobs processed in last minute
+2021-04-07T10:10:21.013595 INFO cpuhog - mskarl: 99 jobs processed in last minute
+2021-04-07T10:11:23.176142 INFO tracker - clark2668: 51 jobs processed in last minute
+2021-04-07T10:12:20.044543 INFO tracker - nega: 77 jobs processed in last minute
+2021-04-07T10:12:31.572921 INFO tracker - mskarl: 43 jobs processed in last minute
+2021-04-07T10:14:06.049102 INFO root - nega: 50 jobs processed in last minute
+2021-04-07T10:15:26.002550 WARNING tracker - dglo: timeout: 1791.170614739477 seconds overdue
+2021-04-07T10:16:35.639316 INFO memory_tracker - ric-evans: 13 jobs processed in last minute
+2021-04-07T10:17:54.302440 ERROR tracker - dglo: cpu error: 30.72 used
+2021-04-07T10:19:07.217639 WARNING cpuhog - jnbellinger: timeout: 3493.087168020189 seconds overdue
+2021-04-07T10:19:37.467697 INFO memory_tracker - jnbellinger: 21 jobs processed in last minute
+2021-04-07T10:20:08.643576 WARNING memory_tracker - clark2668: timeout: 2237.684132971495 seconds overdue
+2021-04-07T10:20:12.768497 INFO memory_tracker - ric-evans: 17 jobs processed in last minute
+2021-04-07T10:20:43.071332 INFO cpuhog - mskarl: 80 jobs processed in last minute
+2021-04-07T10:20:48.274547 INFO memory_tracker - mskarl: 34 jobs processed in last minute
+2021-04-07T10:21:36.379500 WARNING handlers - blinkdog: timeout: 3129.396102158491 seconds overdue
+2021-04-07T10:22:19.821643 ERROR handlers - blinkdog: cpu error: 31.83 used
+2021-04-07T10:22:27.272116 INFO root - nega: 77 jobs processed in last minute
+2021-04-07T10:22:48.154561 ERROR cpuhog - colemanalan: memory error: 4979172 KB used
+2021-04-07T10:23:05.277912 INFO root - nega: 50 jobs processed in last minute
+2021-04-07T10:24:32.759358 INFO cpuhog - mskarl: 94 jobs processed in last minute
+2021-04-07T10:25:02.420281 ERROR tracker - blinkdog: cpu error: 37.44 used
+2021-04-07T10:26:09.560283 INFO tracker - blinkdog: 72 jobs processed in last minute
+2021-04-07T10:27:18.395923 INFO memory_tracker - clark2668: 39 jobs processed in last minute
+2021-04-07T10:28:36.359936 INFO cpuhog - blinkdog: 38 jobs processed in last minute
+2021-04-07T10:30:04.473508 INFO memory_tracker - aludez: 89 jobs processed in last minute
+2021-04-07T10:30:13.518346 INFO memory_tracker - colemanalan: 72 jobs processed in last minute
+2021-04-07T10:30:57.239029 INFO handlers - clark2668: 24 jobs processed in last minute
+2021-04-07T10:32:09.310767 INFO root - aludez: 24 jobs processed in last minute
+2021-04-07T10:32:20.718584 INFO cpuhog - kjmeagher: 42 jobs processed in last minute
+2021-04-07T10:33:17.965641 WARNING cpuhog - olivas: timeout: 3034.796618154974 seconds overdue
+2021-04-07T10:34:49.916766 INFO handlers - colemanalan: 75 jobs processed in last minute
+2021-04-07T10:35:30.443381 INFO root - austinschneider: 77 jobs processed in last minute
+2021-04-07T10:36:53.240114 INFO handlers - olivas: 12 jobs processed in last minute
+2021-04-07T10:36:53.957568 INFO handlers - austinschneider: 2 jobs processed in last minute
+2021-04-07T10:37:01.825508 INFO memory_tracker - aludez: 94 jobs processed in last minute
+2021-04-07T10:38:18.239770 INFO handlers - jnbellinger: 63 jobs processed in last minute
+2021-04-07T10:38:27.939463 INFO memory_tracker - olivas: 63 jobs processed in last minute
+2021-04-07T10:39:13.375552 INFO root - mskarl: 85 jobs processed in last minute
+2021-04-07T10:40:35.278389 WARNING tracker - dglo: timeout: 964.752008393 seconds overdue
+2021-04-07T10:41:58.211537 INFO root - jnbellinger: 32 jobs processed in last minute
+2021-04-07T10:42:33.529614 INFO root - blinkdog: 34 jobs processed in last minute
+2021-04-07T10:42:41.424204 INFO tracker - aludez: 48 jobs processed in last minute
+2021-04-07T10:43:47.122224 INFO handlers - ric-evans: 32 jobs processed in last minute
+2021-04-07T10:45:26.629564 INFO root - nega: 53 jobs processed in last minute
+2021-04-07T10:46:28.120825 INFO memory_tracker - kjmeagher: 96 jobs processed in last minute
+2021-04-07T10:46:36.789946 INFO handlers - blinkdog: 96 jobs processed in last minute
+2021-04-07T10:47:08.290287 WARNING tracker - mskarl: timeout: 1039.9077065247404 seconds overdue
+2021-04-07T10:48:26.971935 ERROR cpuhog - colemanalan: memory error: 6454320 KB used
+2021-04-07T10:49:54.007122 INFO memory_tracker - nega: 61 jobs processed in last minute
+2021-04-07T10:50:19.026393 INFO handlers - olivas: 11 jobs processed in last minute
+2021-04-07T10:51:45.559442 INFO memory_tracker - nega: 55 jobs processed in last minute
+2021-04-07T10:53:03.826676 WARNING tracker - austinschneider: timeout: 3249.2105513068213 seconds overdue
+2021-04-07T10:54:30.302579 INFO tracker - mskarl: 15 jobs processed in last minute
+2021-04-07T10:55:37.751225 WARNING handlers - kjmeagher: timeout: 3315.2665052788757 seconds overdue
+2021-04-07T10:56:54.281727 INFO handlers - dglo: 97 jobs processed in last minute
+2021-04-07T10:58:20.659692 WARNING memory_tracker - dglo: timeout: 232.92906546460412 seconds overdue
+2021-04-07T10:59:14.828965 INFO tracker - colemanalan: 45 jobs processed in last minute
+2021-04-07T11:00:02.646062 INFO root - jnbellinger: 57 jobs processed in last minute
+2021-04-07T11:00:50.107154 INFO tracker - aludez: 12 jobs processed in last minute
+2021-04-07T11:01:49.222575 INFO tracker - clark2668: 66 jobs processed in last minute
+2021-04-07T11:02:42.509076 INFO root - austinschneider: 100 jobs processed in last minute
+2021-04-07T11:03:02.815103 INFO root - kjmeagher: 33 jobs processed in last minute
+2021-04-07T11:04:04.707674 ERROR handlers - nega: cpu error: 38.13 used
+2021-04-07T11:05:35.893838 INFO root - austinschneider: 81 jobs processed in last minute
+2021-04-07T11:07:05.657275 ERROR memory_tracker - aludez: cpu error: 37.22 used
+2021-04-07T11:07:47.735422 INFO tracker - olivas: 82 jobs processed in last minute
+2021-04-07T11:08:18.077445 WARNING memory_tracker - nega: timeout: 717.4260194272316 seconds overdue
+2021-04-07T11:08:21.280252 INFO handlers - nega: 46 jobs processed in last minute
+2021-04-07T11:09:02.453683 INFO handlers - olivas: 27 jobs processed in last minute
+2021-04-07T11:09:25.914470 INFO tracker - mskarl: 70 jobs processed in last minute
+2021-04-07T11:10:16.284124 INFO cpuhog - dglo: 7 jobs processed in last minute
+2021-04-07T11:10:46.338517 INFO cpuhog - blinkdog: 17 jobs processed in last minute
+2021-04-07T11:10:49.695882 INFO memory_tracker - austinschneider: 95 jobs processed in last minute
+2021-04-07T11:11:28.479971 INFO handlers - colemanalan: 46 jobs processed in last minute
+2021-04-07T11:12:36.648029 WARNING handlers - mskarl: timeout: 708.265181105123 seconds overdue
+2021-04-07T11:14:09.735568 INFO tracker - colemanalan: 38 jobs processed in last minute
+2021-04-07T11:14:45.866557 INFO root - ric-evans: 15 jobs processed in last minute
+2021-04-07T11:16:02.183719 ERROR root - blinkdog: cpu error: 35.71 used
+2021-04-07T11:17:38.738380 INFO tracker - nega: 24 jobs processed in last minute
+2021-04-07T11:18:01.188754 INFO cpuhog - austinschneider: 13 jobs processed in last minute
+2021-04-07T11:18:21.723138 INFO memory_tracker - austinschneider: 27 jobs processed in last minute
+2021-04-07T11:19:46.598305 WARNING handlers - blinkdog: timeout: 2797.8474150059733 seconds overdue
+2021-04-07T11:20:23.140161 INFO cpuhog - aludez: 88 jobs processed in last minute
+2021-04-07T11:22:01.805691 INFO handlers - austinschneider: 86 jobs processed in last minute
+2021-04-07T11:22:19.486062 WARNING memory_tracker - kjmeagher: timeout: 613.7174743479607 seconds overdue
+2021-04-07T11:23:35.800090 WARNING root - jnbellinger: timeout: 1227.1323959212223 seconds overdue
+2021-04-07T11:24:18.459293 INFO memory_tracker - ric-evans: 37 jobs processed in last minute
+2021-04-07T11:25:22.386590 INFO memory_tracker - colemanalan: 69 jobs processed in last minute
+2021-04-07T11:26:37.438799 INFO memory_tracker - dglo: 34 jobs processed in last minute
+2021-04-07T11:28:01.574867 INFO cpuhog - colemanalan: 73 jobs processed in last minute
+2021-04-07T11:29:24.343435 INFO cpuhog - nega: 87 jobs processed in last minute
+2021-04-07T11:30:04.510143 INFO cpuhog - ric-evans: 92 jobs processed in last minute
+2021-04-07T11:31:03.043077 INFO memory_tracker - colemanalan: 84 jobs processed in last minute
+2021-04-07T11:31:48.361618 INFO memory_tracker - kjmeagher: 26 jobs processed in last minute
+2021-04-07T11:32:05.931742 INFO root - dglo: 20 jobs processed in last minute
+2021-04-07T11:32:12.423387 INFO memory_tracker - colemanalan: 41 jobs processed in last minute
+2021-04-07T11:32:22.412676 INFO cpuhog - aludez: 38 jobs processed in last minute
+2021-04-07T11:32:41.742081 WARNING cpuhog - aludez: timeout: 1210.5252506434313 seconds overdue
+2021-04-07T11:32:45.483238 INFO cpuhog - nega: 27 jobs processed in last minute
+2021-04-07T11:33:01.581301 INFO memory_tracker - austinschneider: 38 jobs processed in last minute
+2021-04-07T11:33:13.701106 WARNING cpuhog - jnbellinger: timeout: 1977.620298669652 seconds overdue
+2021-04-07T11:34:41.156944 INFO root - austinschneider: 70 jobs processed in last minute
+2021-04-07T11:36:19.301526 INFO cpuhog - kjmeagher: 79 jobs processed in last minute
+2021-04-07T11:37:34.955491 WARNING handlers - dglo: timeout: 3155.1921602061634 seconds overdue
+2021-04-07T11:38:41.729331 INFO tracker - ric-evans: 98 jobs processed in last minute
+2021-04-07T11:38:57.829311 INFO memory_tracker - clark2668: 99 jobs processed in last minute
+2021-04-07T11:39:02.436668 INFO memory_tracker - clark2668: 28 jobs processed in last minute
+2021-04-07T11:39:51.900877 INFO handlers - clark2668: 100 jobs processed in last minute
+2021-04-07T11:40:14.849973 INFO handlers - jnbellinger: 73 jobs processed in last minute
+2021-04-07T11:41:35.283757 INFO root - olivas: 7 jobs processed in last minute
+2021-04-07T11:41:39.873026 WARNING tracker - mskarl: timeout: 3368.553344682245 seconds overdue
+2021-04-07T11:42:10.118608 INFO memory_tracker - colemanalan: 19 jobs processed in last minute
+2021-04-07T11:43:36.846369 INFO handlers - aludez: 72 jobs processed in last minute
+2021-04-07T11:44:29.830946 ERROR root - kjmeagher: memory error: 1393360 KB used
+2021-04-07T11:45:25.264577 INFO memory_tracker - austinschneider: 53 jobs processed in last minute
+2021-04-07T11:46:07.857846 INFO memory_tracker - ric-evans: 60 jobs processed in last minute
+2021-04-07T11:47:07.839542 WARNING cpuhog - austinschneider: timeout: 385.9750341751102 seconds overdue
+2021-04-07T11:48:22.710147 INFO handlers - jnbellinger: 23 jobs processed in last minute
+2021-04-07T11:48:57.732760 WARNING handlers - aludez: timeout: 15.392178124054823 seconds overdue
+2021-04-07T11:50:36.290137 WARNING handlers - colemanalan: timeout: 2271.2769259583215 seconds overdue
+2021-04-07T11:51:28.679462 INFO root - nega: 28 jobs processed in last minute
+2021-04-07T11:51:52.778659 INFO tracker - kjmeagher: 38 jobs processed in last minute
+2021-04-07T11:53:09.390741 INFO memory_tracker - austinschneider: 22 jobs processed in last minute
+2021-04-07T11:54:24.424194 ERROR root - mskarl: cpu error: 30.16 used
+2021-04-07T11:54:52.195118 WARNING root - mskarl: timeout: 657.0222490127437 seconds overdue
+2021-04-07T11:55:07.405934 INFO handlers - mskarl: 38 jobs processed in last minute
+2021-04-07T11:56:25.551040 WARNING memory_tracker - kjmeagher: timeout: 1619.496365134215 seconds overdue
+2021-04-07T11:57:56.576253 INFO handlers - aludez: 71 jobs processed in last minute
+2021-04-07T11:59:09.887079 INFO tracker - clark2668: 83 jobs processed in last minute
+2021-04-07T12:00:44.924709 INFO tracker - kjmeagher: 38 jobs processed in last minute
+2021-04-07T12:01:16.632866 INFO memory_tracker - dglo: 33 jobs processed in last minute
+2021-04-07T12:01:20.815785 INFO memory_tracker - jnbellinger: 60 jobs processed in last minute
+2021-04-07T12:01:53.782879 INFO tracker - mskarl: 30 jobs processed in last minute
+2021-04-07T12:02:44.690763 INFO handlers - kjmeagher: 73 jobs processed in last minute
+2021-04-07T12:04:11.825571 INFO root - blinkdog: 88 jobs processed in last minute
+2021-04-07T12:04:22.022064 ERROR handlers - aludez: memory error: 1177833 KB used
+2021-04-07T12:05:19.870256 INFO cpuhog - clark2668: 14 jobs processed in last minute
+2021-04-07T12:06:50.662603 INFO cpuhog - austinschneider: 60 jobs processed in last minute
+2021-04-07T12:06:57.795212 INFO handlers - colemanalan: 78 jobs processed in last minute
+2021-04-07T12:07:50.107994 INFO root - kjmeagher: 17 jobs processed in last minute
+2021-04-07T12:08:00.288739 INFO cpuhog - kjmeagher: 15 jobs processed in last minute
+2021-04-07T12:08:37.972078 WARNING root - jnbellinger: timeout: 2703.869932199838 seconds overdue
+2021-04-07T12:08:46.349268 INFO handlers - olivas: 75 jobs processed in last minute
+2021-04-07T12:09:41.778585 WARNING cpuhog - kjmeagher: timeout: 884.4701200762771 seconds overdue
+2021-04-07T12:09:54.731662 INFO memory_tracker - clark2668: 70 jobs processed in last minute
+2021-04-07T12:11:18.028546 WARNING root - jnbellinger: timeout: 1567.4254947286636 seconds overdue
+2021-04-07T12:11:47.926635 INFO memory_tracker - colemanalan: 47 jobs processed in last minute
+2021-04-07T12:13:06.220046 INFO handlers - olivas: 84 jobs processed in last minute
+2021-04-07T12:14:44.000625 ERROR cpuhog - nega: memory error: 4737684 KB used
+2021-04-07T12:15:02.715635 INFO cpuhog - nega: 82 jobs processed in last minute
+2021-04-07T12:15:41.210429 INFO handlers - dglo: 15 jobs processed in last minute
+2021-04-07T12:17:16.964331 ERROR memory_tracker - aludez: memory error: 8104811 KB used
+2021-04-07T12:17:36.369181 INFO handlers - aludez: 25 jobs processed in last minute
+2021-04-07T12:19:14.751261 INFO tracker - colemanalan: 35 jobs processed in last minute
+2021-04-07T12:20:50.052844 WARNING tracker - colemanalan: timeout: 170.10939771525324 seconds overdue
+2021-04-07T12:22:25.554103 INFO tracker - blinkdog: 77 jobs processed in last minute
+2021-04-07T12:23:59.046426 INFO root - kjmeagher: 62 jobs processed in last minute
+2021-04-07T12:24:09.143891 INFO tracker - olivas: 22 jobs processed in last minute
+2021-04-07T12:25:13.102244 INFO root - dglo: 14 jobs processed in last minute
+2021-04-07T12:26:13.529655 WARNING handlers - austinschneider: timeout: 2640.2784028927867 seconds overdue
+2021-04-07T12:26:25.564926 INFO cpuhog - austinschneider: 85 jobs processed in last minute
+2021-04-07T12:27:18.862021 INFO handlers - aludez: 29 jobs processed in last minute
+2021-04-07T12:28:20.960983 INFO tracker - olivas: 15 jobs processed in last minute
+2021-04-07T12:28:49.393617 INFO root - nega: 12 jobs processed in last minute
+2021-04-07T12:29:18.016389 INFO memory_tracker - blinkdog: 60 jobs processed in last minute
+2021-04-07T12:30:18.065166 INFO handlers - ric-evans: 29 jobs processed in last minute
+2021-04-07T12:31:45.112439 WARNING memory_tracker - blinkdog: timeout: 877.9078592450467 seconds overdue
+2021-04-07T12:31:53.543839 WARNING handlers - ric-evans: timeout: 363.7948664241632 seconds overdue
+2021-04-07T12:33:00.714105 INFO memory_tracker - blinkdog: 46 jobs processed in last minute
+2021-04-07T12:33:13.106608 INFO tracker - jnbellinger: 67 jobs processed in last minute
+2021-04-07T12:34:20.997524 INFO handlers - aludez: 45 jobs processed in last minute
+2021-04-07T12:35:10.221319 WARNING root - olivas: timeout: 2778.2547557939843 seconds overdue
+2021-04-07T12:36:35.131089 WARNING memory_tracker - nega: timeout: 1166.805490253785 seconds overdue
+2021-04-07T12:36:36.543094 WARNING memory_tracker - mskarl: timeout: 827.8822015201206 seconds overdue
+2021-04-07T12:37:38.852859 INFO root - austinschneider: 27 jobs processed in last minute
+2021-04-07T12:38:01.489337 WARNING memory_tracker - ric-evans: timeout: 3095.389727293119 seconds overdue
+2021-04-07T12:39:02.429662 WARNING tracker - clark2668: timeout: 2202.53225497394 seconds overdue
+2021-04-07T12:40:22.820499 INFO tracker - aludez: 51 jobs processed in last minute
+2021-04-07T12:40:35.846722 INFO tracker - olivas: 51 jobs processed in last minute
+2021-04-07T12:41:16.834375 INFO tracker - olivas: 6 jobs processed in last minute
+2021-04-07T12:42:23.020822 ERROR handlers - blinkdog: cpu error: 36.79 used
+2021-04-07T12:42:53.547388 INFO root - clark2668: 3 jobs processed in last minute
+2021-04-07T12:44:05.096615 WARNING tracker - blinkdog: timeout: 1286.5581981917771 seconds overdue
+2021-04-07T12:44:20.029819 INFO memory_tracker - olivas: 88 jobs processed in last minute
+2021-04-07T12:44:57.972039 INFO tracker - nega: 46 jobs processed in last minute
+2021-04-07T12:46:05.980223 WARNING tracker - aludez: timeout: 3519.631245641169 seconds overdue
+2021-04-07T12:47:36.151981 INFO memory_tracker - austinschneider: 10 jobs processed in last minute
+2021-04-07T12:48:43.076552 INFO memory_tracker - kjmeagher: 93 jobs processed in last minute
+2021-04-07T12:49:00.837363 INFO handlers - austinschneider: 65 jobs processed in last minute
+2021-04-07T12:50:16.970916 WARNING handlers - ric-evans: timeout: 480.66057790785936 seconds overdue
+2021-04-07T12:51:47.549775 ERROR root - austinschneider: cpu error: 36.14 used
+2021-04-07T12:52:56.751761 INFO handlers - aludez: 95 jobs processed in last minute
+2021-04-07T12:53:49.523482 INFO root - blinkdog: 85 jobs processed in last minute
+2021-04-07T12:54:56.800926 WARNING root - austinschneider: timeout: 90.44956470339388 seconds overdue
+2021-04-07T12:55:52.543936 INFO memory_tracker - colemanalan: 98 jobs processed in last minute
+2021-04-07T12:57:11.310993 WARNING tracker - aludez: timeout: 2799.099512902941 seconds overdue
+2021-04-07T12:58:19.673813 INFO memory_tracker - dglo: 37 jobs processed in last minute
+2021-04-07T12:59:02.804871 WARNING root - jnbellinger: timeout: 556.2865574349203 seconds overdue
+2021-04-07T13:00:10.440976 WARNING root - austinschneider: timeout: 3038.208944143116 seconds overdue
+2021-04-07T13:01:10.772802 INFO root - jnbellinger: 53 jobs processed in last minute
+2021-04-07T13:01:24.221492 WARNING tracker - nega: timeout: 1102.6839603608341 seconds overdue
+2021-04-07T13:02:49.482792 INFO cpuhog - austinschneider: 51 jobs processed in last minute
+2021-04-07T13:03:34.363028 INFO handlers - colemanalan: 12 jobs processed in last minute
+2021-04-07T13:03:59.417260 WARNING memory_tracker - ric-evans: timeout: 1575.7533850724044 seconds overdue
+2021-04-07T13:04:46.886623 INFO cpuhog - aludez: 11 jobs processed in last minute
+2021-04-07T13:06:20.713360 INFO handlers - nega: 85 jobs processed in last minute
+2021-04-07T13:07:17.110925 WARNING root - mskarl: timeout: 2948.1080696514246 seconds overdue
+2021-04-07T13:08:28.376115 INFO memory_tracker - austinschneider: 24 jobs processed in last minute
+2021-04-07T13:10:06.623830 INFO cpuhog - olivas: 55 jobs processed in last minute
+2021-04-07T13:11:13.190759 WARNING handlers - mskarl: timeout: 898.4815649315883 seconds overdue
+2021-04-07T13:12:12.664614 WARNING root - clark2668: timeout: 2261.726771944265 seconds overdue
+2021-04-07T13:13:24.112627 INFO tracker - nega: 67 jobs processed in last minute
+2021-04-07T13:14:28.218790 INFO cpuhog - dglo: 1 jobs processed in last minute
+2021-04-07T13:14:58.851899 INFO cpuhog - blinkdog: 60 jobs processed in last minute
+2021-04-07T13:15:49.593533 INFO memory_tracker - ric-evans: 93 jobs processed in last minute
+2021-04-07T13:16:56.398476 WARNING handlers - blinkdog: timeout: 2103.528522273779 seconds overdue
+2021-04-07T13:17:46.407066 INFO handlers - olivas: 11 jobs processed in last minute
+2021-04-07T13:19:21.864889 INFO handlers - clark2668: 86 jobs processed in last minute
+2021-04-07T13:19:22.386952 WARNING root - jnbellinger: timeout: 2050.5295423802645 seconds overdue
+2021-04-07T13:20:57.843148 WARNING root - ric-evans: timeout: 2592.696126280913 seconds overdue
+2021-04-07T13:21:55.469791 INFO root - olivas: 16 jobs processed in last minute
+2021-04-07T13:22:16.564273 INFO cpuhog - clark2668: 88 jobs processed in last minute
+2021-04-07T13:22:56.655786 INFO root - blinkdog: 24 jobs processed in last minute
+2021-04-07T13:23:37.564883 INFO tracker - colemanalan: 44 jobs processed in last minute
+2021-04-07T13:24:22.926189 WARNING cpuhog - jnbellinger: timeout: 1244.7380052865767 seconds overdue
+2021-04-07T13:25:30.301716 INFO handlers - olivas: 45 jobs processed in last minute
+2021-04-07T13:26:26.243129 INFO tracker - kjmeagher: 4 jobs processed in last minute
+2021-04-07T13:27:02.021800 INFO cpuhog - blinkdog: 99 jobs processed in last minute
+2021-04-07T13:27:59.451497 INFO memory_tracker - kjmeagher: 31 jobs processed in last minute
+2021-04-07T13:28:22.094883 WARNING root - jnbellinger: timeout: 347.4529765959877 seconds overdue
+2021-04-07T13:28:26.466335 INFO tracker - kjmeagher: 99 jobs processed in last minute
+2021-04-07T13:28:31.598713 INFO handlers - ric-evans: 97 jobs processed in last minute
+2021-04-07T13:29:26.123635 INFO tracker - aludez: 3 jobs processed in last minute
+2021-04-07T13:30:21.004448 INFO cpuhog - aludez: 12 jobs processed in last minute
+2021-04-07T13:31:50.653696 INFO cpuhog - ric-evans: 9 jobs processed in last minute
+2021-04-07T13:32:33.547335 INFO cpuhog - clark2668: 17 jobs processed in last minute
+2021-04-07T13:34:01.795813 INFO tracker - blinkdog: 52 jobs processed in last minute
+2021-04-07T13:35:02.940518 INFO root - blinkdog: 98 jobs processed in last minute
+2021-04-07T13:36:31.767436 INFO cpuhog - clark2668: 75 jobs processed in last minute
+2021-04-07T13:37:04.971735 INFO tracker - austinschneider: 81 jobs processed in last minute
+2021-04-07T13:37:09.002479 INFO cpuhog - clark2668: 32 jobs processed in last minute
+2021-04-07T13:37:22.642303 ERROR tracker - colemanalan: cpu error: 36.58 used
+2021-04-07T13:37:27.668524 INFO handlers - colemanalan: 11 jobs processed in last minute
+2021-04-07T13:39:07.658746 INFO memory_tracker - kjmeagher: 66 jobs processed in last minute
+2021-04-07T13:40:41.605758 INFO handlers - austinschneider: 28 jobs processed in last minute
+2021-04-07T13:41:56.122388 WARNING cpuhog - dglo: timeout: 2807.9165065858524 seconds overdue
+2021-04-07T13:43:12.157134 INFO handlers - ric-evans: 11 jobs processed in last minute
+2021-04-07T13:43:22.129486 ERROR handlers - austinschneider: cpu error: 35.36 used
+2021-04-07T13:44:22.682596 INFO cpuhog - blinkdog: 35 jobs processed in last minute
+2021-04-07T13:45:49.312975 INFO root - aludez: 84 jobs processed in last minute
+2021-04-07T13:46:08.420933 INFO memory_tracker - colemanalan: 65 jobs processed in last minute
+2021-04-07T13:46:25.332966 INFO handlers - kjmeagher: 63 jobs processed in last minute
+2021-04-07T13:47:31.102024 INFO handlers - olivas: 55 jobs processed in last minute
+2021-04-07T13:48:10.066797 INFO memory_tracker - blinkdog: 36 jobs processed in last minute
+2021-04-07T13:49:33.485049 INFO memory_tracker - blinkdog: 28 jobs processed in last minute
+2021-04-07T13:49:36.646011 INFO memory_tracker - dglo: 48 jobs processed in last minute
+2021-04-07T13:50:37.543146 INFO cpuhog - colemanalan: 69 jobs processed in last minute
+2021-04-07T13:51:58.112584 INFO memory_tracker - nega: 13 jobs processed in last minute
+2021-04-07T13:53:22.367374 INFO memory_tracker - blinkdog: 80 jobs processed in last minute
+2021-04-07T13:54:51.125220 INFO cpuhog - aludez: 96 jobs processed in last minute
+2021-04-07T13:55:26.919871 INFO root - dglo: 95 jobs processed in last minute
+2021-04-07T13:56:18.886308 INFO cpuhog - nega: 10 jobs processed in last minute
+2021-04-07T13:57:57.643642 INFO memory_tracker - kjmeagher: 76 jobs processed in last minute
+2021-04-07T13:59:28.078170 INFO root - nega: 99 jobs processed in last minute
+2021-04-07T14:00:48.343039 INFO cpuhog - clark2668: 42 jobs processed in last minute
+2021-04-07T14:01:01.778831 ERROR root - nega: cpu error: 33.07 used
+2021-04-07T14:01:14.252051 INFO tracker - colemanalan: 18 jobs processed in last minute
+2021-04-07T14:01:59.073291 INFO handlers - blinkdog: 43 jobs processed in last minute
+2021-04-07T14:03:27.864878 INFO cpuhog - austinschneider: 47 jobs processed in last minute
+2021-04-07T14:04:12.747478 WARNING tracker - kjmeagher: timeout: 2004.413144194065 seconds overdue
+2021-04-07T14:05:14.982187 ERROR root - blinkdog: memory error: 7806298 KB used
+2021-04-07T14:05:54.478523 INFO memory_tracker - jnbellinger: 4 jobs processed in last minute
+2021-04-07T14:07:30.031987 INFO handlers - clark2668: 54 jobs processed in last minute
+2021-04-07T14:09:01.589487 WARNING tracker - ric-evans: timeout: 2591.3727807251025 seconds overdue
+2021-04-07T14:09:32.996669 INFO tracker - colemanalan: 59 jobs processed in last minute
+2021-04-07T14:10:47.312050 INFO memory_tracker - colemanalan: 70 jobs processed in last minute
+2021-04-07T14:10:56.452187 INFO tracker - colemanalan: 52 jobs processed in last minute
+2021-04-07T14:11:29.108104 WARNING handlers - kjmeagher: timeout: 1402.6947459786795 seconds overdue
+2021-04-07T14:11:58.004431 INFO tracker - clark2668: 68 jobs processed in last minute
+2021-04-07T14:13:27.066576 INFO cpuhog - nega: 59 jobs processed in last minute
+2021-04-07T14:15:01.131155 INFO tracker - dglo: 56 jobs processed in last minute
+2021-04-07T14:15:23.389385 ERROR root - mskarl: cpu error: 33.24 used
+2021-04-07T14:15:27.333676 ERROR tracker - clark2668: memory error: 5325011 KB used
+2021-04-07T14:15:58.417169 INFO memory_tracker - jnbellinger: 56 jobs processed in last minute
+2021-04-07T14:16:15.461189 WARNING root - colemanalan: timeout: 1187.5629317064822 seconds overdue
+2021-04-07T14:16:37.743625 ERROR tracker - jnbellinger: cpu error: 35.24 used
+2021-04-07T14:17:55.895514 INFO root - dglo: 26 jobs processed in last minute
+2021-04-07T14:19:13.087118 INFO cpuhog - nega: 76 jobs processed in last minute
+2021-04-07T14:20:36.555342 INFO memory_tracker - mskarl: 18 jobs processed in last minute
+2021-04-07T14:21:24.744845 INFO cpuhog - jnbellinger: 94 jobs processed in last minute
+2021-04-07T14:22:02.879416 INFO cpuhog - nega: 10 jobs processed in last minute
+2021-04-07T14:23:10.226656 INFO cpuhog - kjmeagher: 72 jobs processed in last minute
+2021-04-07T14:24:39.326250 INFO tracker - nega: 2 jobs processed in last minute
+2021-04-07T14:24:43.626530 INFO cpuhog - blinkdog: 57 jobs processed in last minute
+2021-04-07T14:25:22.723608 INFO root - nega: 38 jobs processed in last minute
+2021-04-07T14:26:00.738762 INFO handlers - austinschneider: 15 jobs processed in last minute
+2021-04-07T14:26:55.603475 ERROR handlers - olivas: cpu error: 36.29 used
+2021-04-07T14:27:21.949873 INFO cpuhog - colemanalan: 40 jobs processed in last minute
+2021-04-07T14:28:23.082881 ERROR root - blinkdog: cpu error: 39.25 used
+2021-04-07T14:29:30.354173 INFO handlers - olivas: 24 jobs processed in last minute
+2021-04-07T14:29:42.435395 ERROR root - jnbellinger: cpu error: 39.85 used
+2021-04-07T14:31:02.808648 INFO tracker - kjmeagher: 8 jobs processed in last minute
+2021-04-07T14:32:35.096613 INFO handlers - jnbellinger: 28 jobs processed in last minute
+2021-04-07T14:32:42.131278 INFO tracker - blinkdog: 50 jobs processed in last minute
+2021-04-07T14:33:37.353582 INFO tracker - mskarl: 81 jobs processed in last minute
+2021-04-07T14:33:52.388276 WARNING handlers - colemanalan: timeout: 2299.7908314346823 seconds overdue
+2021-04-07T14:33:55.286712 WARNING handlers - clark2668: timeout: 2093.342486782875 seconds overdue
+2021-04-07T14:35:33.337018 ERROR memory_tracker - jnbellinger: memory error: 6943060 KB used
+2021-04-07T14:36:14.104538 INFO tracker - ric-evans: 78 jobs processed in last minute
+2021-04-07T14:37:22.196487 INFO root - austinschneider: 28 jobs processed in last minute
+2021-04-07T14:38:32.153583 INFO memory_tracker - austinschneider: 69 jobs processed in last minute
+2021-04-07T14:39:09.052143 WARNING root - austinschneider: timeout: 505.9709632173249 seconds overdue
+2021-04-07T14:39:43.696156 INFO handlers - mskarl: 92 jobs processed in last minute
+2021-04-07T14:40:27.064469 INFO tracker - jnbellinger: 67 jobs processed in last minute
+2021-04-07T14:40:46.428499 ERROR memory_tracker - olivas: memory error: 8328622 KB used
+2021-04-07T14:41:13.692664 WARNING handlers - dglo: timeout: 160.55611731580214 seconds overdue
+2021-04-07T14:41:35.138396 INFO tracker - dglo: 8 jobs processed in last minute
+2021-04-07T14:41:41.668335 INFO handlers - blinkdog: 58 jobs processed in last minute
+2021-04-07T14:41:57.541398 INFO tracker - jnbellinger: 60 jobs processed in last minute
+2021-04-07T14:43:13.244416 INFO handlers - aludez: 83 jobs processed in last minute
+2021-04-07T14:44:41.703454 INFO memory_tracker - dglo: 87 jobs processed in last minute
+2021-04-07T14:45:07.853581 WARNING root - nega: timeout: 2888.4696594649017 seconds overdue
+2021-04-07T14:46:05.489672 ERROR handlers - kjmeagher: memory error: 7440299 KB used
+2021-04-07T14:46:59.874604 INFO memory_tracker - olivas: 74 jobs processed in last minute
+2021-04-07T14:48:18.540594 INFO handlers - mskarl: 3 jobs processed in last minute
+2021-04-07T14:48:55.374515 INFO handlers - aludez: 97 jobs processed in last minute
+2021-04-07T14:48:59.630082 INFO memory_tracker - kjmeagher: 69 jobs processed in last minute
+2021-04-07T14:49:58.380958 INFO handlers - olivas: 19 jobs processed in last minute
+2021-04-07T14:50:26.253748 INFO handlers - clark2668: 8 jobs processed in last minute
+2021-04-07T14:50:55.316680 WARNING handlers - jnbellinger: timeout: 2839.091340757475 seconds overdue
+2021-04-07T14:52:05.779512 INFO handlers - kjmeagher: 99 jobs processed in last minute
+2021-04-07T14:53:35.373688 WARNING root - colemanalan: timeout: 2122.975328142141 seconds overdue
+2021-04-07T14:54:52.253897 INFO memory_tracker - nega: 70 jobs processed in last minute
+2021-04-07T14:56:00.606345 INFO handlers - austinschneider: 82 jobs processed in last minute
+2021-04-07T14:56:55.396189 INFO memory_tracker - mskarl: 80 jobs processed in last minute
+2021-04-07T14:58:18.985718 INFO cpuhog - kjmeagher: 4 jobs processed in last minute
+2021-04-07T14:58:34.150480 INFO root - jnbellinger: 12 jobs processed in last minute
+2021-04-07T15:00:00.344273 INFO root - kjmeagher: 7 jobs processed in last minute
+2021-04-07T15:00:55.828577 WARNING tracker - mskarl: timeout: 3007.9033900763216 seconds overdue
+2021-04-07T15:01:10.819660 INFO tracker - ric-evans: 91 jobs processed in last minute
+2021-04-07T15:02:04.084691 INFO handlers - kjmeagher: 39 jobs processed in last minute
+2021-04-07T15:02:26.576306 INFO cpuhog - aludez: 18 jobs processed in last minute
+2021-04-07T15:02:28.294484 INFO handlers - austinschneider: 26 jobs processed in last minute
+2021-04-07T15:02:38.609612 INFO tracker - mskarl: 96 jobs processed in last minute
+2021-04-07T15:02:50.461774 INFO memory_tracker - jnbellinger: 86 jobs processed in last minute
+2021-04-07T15:04:12.127421 INFO handlers - mskarl: 32 jobs processed in last minute
+2021-04-07T15:04:21.363672 INFO memory_tracker - ric-evans: 99 jobs processed in last minute
+2021-04-07T15:05:21.266128 WARNING root - mskarl: timeout: 1727.6873130104466 seconds overdue
+2021-04-07T15:06:52.644950 INFO memory_tracker - dglo: 5 jobs processed in last minute
+2021-04-07T15:06:58.087550 INFO handlers - nega: 25 jobs processed in last minute
+2021-04-07T15:07:12.327404 WARNING root - blinkdog: timeout: 2255.8599968568274 seconds overdue
+2021-04-07T15:07:53.640342 WARNING memory_tracker - nega: timeout: 2817.340844545527 seconds overdue
+2021-04-07T15:09:26.910470 INFO handlers - ric-evans: 63 jobs processed in last minute
+2021-04-07T15:09:59.991654 INFO tracker - kjmeagher: 53 jobs processed in last minute
+2021-04-07T15:10:15.405721 INFO tracker - ric-evans: 52 jobs processed in last minute
+2021-04-07T15:10:20.043231 INFO handlers - ric-evans: 99 jobs processed in last minute
+2021-04-07T15:11:18.426817 WARNING cpuhog - olivas: timeout: 2661.1562803788297 seconds overdue
+2021-04-07T15:11:59.533154 ERROR handlers - nega: cpu error: 32.77 used
+2021-04-07T15:13:11.910064 INFO cpuhog - ric-evans: 21 jobs processed in last minute
+2021-04-07T15:13:39.218472 INFO handlers - olivas: 9 jobs processed in last minute
+2021-04-07T15:14:10.985723 WARNING root - aludez: timeout: 3014.566113818569 seconds overdue
+2021-04-07T15:15:32.327629 INFO cpuhog - colemanalan: 67 jobs processed in last minute
+2021-04-07T15:15:52.390824 INFO handlers - aludez: 43 jobs processed in last minute
+2021-04-07T15:16:52.366392 INFO handlers - olivas: 45 jobs processed in last minute
+2021-04-07T15:17:48.010603 INFO tracker - blinkdog: 5 jobs processed in last minute
+2021-04-07T15:18:37.620694 WARNING cpuhog - austinschneider: timeout: 1460.5421124621814 seconds overdue
+2021-04-07T15:19:01.479963 WARNING tracker - olivas: timeout: 555.8105657096469 seconds overdue
+2021-04-07T15:20:13.909619 INFO memory_tracker - olivas: 6 jobs processed in last minute
+2021-04-07T15:21:13.092434 WARNING memory_tracker - clark2668: timeout: 996.433278013893 seconds overdue
+2021-04-07T15:21:47.720209 INFO handlers - aludez: 49 jobs processed in last minute
+2021-04-07T15:22:40.866658 INFO handlers - olivas: 7 jobs processed in last minute
+2021-04-07T15:22:49.392367 INFO handlers - kjmeagher: 37 jobs processed in last minute
+2021-04-07T15:24:13.505276 INFO cpuhog - jnbellinger: 10 jobs processed in last minute
+2021-04-07T15:25:43.518007 INFO cpuhog - olivas: 43 jobs processed in last minute
+2021-04-07T15:26:38.852051 WARNING memory_tracker - kjmeagher: timeout: 2400.4122576419118 seconds overdue
+2021-04-07T15:26:50.648924 INFO cpuhog - austinschneider: 27 jobs processed in last minute
+2021-04-07T15:27:48.091219 INFO memory_tracker - austinschneider: 39 jobs processed in last minute
+2021-04-07T15:28:44.740376 INFO root - kjmeagher: 28 jobs processed in last minute
+2021-04-07T15:29:29.966843 INFO tracker - austinschneider: 43 jobs processed in last minute
+2021-04-07T15:30:41.804812 ERROR root - colemanalan: cpu error: 30.40 used
+2021-04-07T15:32:11.742495 ERROR cpuhog - aludez: cpu error: 38.92 used
+2021-04-07T15:33:29.074860 INFO handlers - blinkdog: 71 jobs processed in last minute
+2021-04-07T15:34:11.932316 INFO handlers - olivas: 89 jobs processed in last minute
+2021-04-07T15:34:28.502431 INFO cpuhog - dglo: 83 jobs processed in last minute
+2021-04-07T15:34:58.484381 WARNING memory_tracker - austinschneider: timeout: 2971.868507280454 seconds overdue
+2021-04-07T15:36:34.539571 INFO handlers - nega: 13 jobs processed in last minute
+2021-04-07T15:37:38.732004 INFO cpuhog - austinschneider: 80 jobs processed in last minute
+2021-04-07T15:38:36.400617 WARNING handlers - olivas: timeout: 1295.0763069953107 seconds overdue
+2021-04-07T15:39:22.418028 INFO root - clark2668: 98 jobs processed in last minute
+2021-04-07T15:40:59.346810 INFO root - clark2668: 3 jobs processed in last minute
+2021-04-07T15:41:38.082331 INFO memory_tracker - clark2668: 19 jobs processed in last minute
+2021-04-07T15:42:48.598835 INFO tracker - colemanalan: 61 jobs processed in last minute
+2021-04-07T15:43:36.688035 INFO tracker - ric-evans: 69 jobs processed in last minute
+2021-04-07T15:45:03.660632 INFO memory_tracker - colemanalan: 60 jobs processed in last minute
+2021-04-07T15:45:16.970142 WARNING memory_tracker - mskarl: timeout: 1858.7966513375138 seconds overdue
+2021-04-07T15:45:29.572687 INFO root - kjmeagher: 57 jobs processed in last minute
+2021-04-07T15:45:39.032611 INFO root - ric-evans: 48 jobs processed in last minute
+2021-04-07T15:47:08.057795 WARNING memory_tracker - nega: timeout: 2590.4063820478323 seconds overdue
+2021-04-07T15:47:45.820308 INFO tracker - mskarl: 77 jobs processed in last minute
+2021-04-07T15:49:23.903476 WARNING root - colemanalan: timeout: 620.0598341343962 seconds overdue
+2021-04-07T15:50:06.686482 WARNING root - ric-evans: timeout: 2786.5779501608145 seconds overdue
+2021-04-07T15:51:11.303957 WARNING cpuhog - jnbellinger: timeout: 1966.7491529251247 seconds overdue
+2021-04-07T15:51:20.209778 INFO handlers - ric-evans: 99 jobs processed in last minute
+2021-04-07T15:52:47.339242 INFO root - austinschneider: 10 jobs processed in last minute
+2021-04-07T15:53:10.309447 INFO root - blinkdog: 30 jobs processed in last minute
+2021-04-07T15:54:03.389616 WARNING cpuhog - olivas: timeout: 312.14520428666975 seconds overdue
+2021-04-07T15:54:41.170349 INFO root - austinschneider: 58 jobs processed in last minute
+2021-04-07T15:55:53.232439 INFO root - jnbellinger: 98 jobs processed in last minute
+2021-04-07T15:56:53.955498 INFO handlers - clark2668: 9 jobs processed in last minute
+2021-04-07T15:58:08.157313 INFO root - austinschneider: 17 jobs processed in last minute
+2021-04-07T15:59:26.915813 INFO memory_tracker - olivas: 76 jobs processed in last minute
+2021-04-07T15:59:40.113523 ERROR root - nega: memory error: 1309118 KB used
+2021-04-07T16:00:08.851025 INFO cpuhog - ric-evans: 81 jobs processed in last minute
+2021-04-07T16:01:05.766315 INFO cpuhog - clark2668: 35 jobs processed in last minute
+2021-04-07T16:01:06.127467 INFO tracker - kjmeagher: 64 jobs processed in last minute
+2021-04-07T16:01:10.298415 INFO cpuhog - mskarl: 6 jobs processed in last minute
+2021-04-07T16:02:22.396944 INFO root - austinschneider: 23 jobs processed in last minute
+2021-04-07T16:03:03.257783 INFO handlers - olivas: 55 jobs processed in last minute
+2021-04-07T16:03:34.505895 WARNING handlers - nega: timeout: 3156.5150194538296 seconds overdue
+2021-04-07T16:04:05.622372 INFO root - jnbellinger: 47 jobs processed in last minute
+2021-04-07T16:04:22.057455 INFO tracker - aludez: 98 jobs processed in last minute
+2021-04-07T16:04:37.816547 WARNING root - austinschneider: timeout: 2673.207564611037 seconds overdue
+2021-04-07T16:05:12.453067 INFO handlers - nega: 61 jobs processed in last minute
+2021-04-07T16:06:45.369618 INFO root - mskarl: 83 jobs processed in last minute
+2021-04-07T16:08:14.177417 INFO handlers - dglo: 92 jobs processed in last minute
+2021-04-07T16:09:34.328942 INFO handlers - kjmeagher: 44 jobs processed in last minute
+2021-04-07T16:09:53.620324 INFO memory_tracker - clark2668: 69 jobs processed in last minute
+2021-04-07T16:10:50.051931 ERROR root - clark2668: cpu error: 37.31 used
+2021-04-07T16:11:54.665039 INFO cpuhog - nega: 98 jobs processed in last minute
+2021-04-07T16:12:22.876785 WARNING cpuhog - austinschneider: timeout: 821.307142642866 seconds overdue
+2021-04-07T16:12:53.071412 WARNING memory_tracker - colemanalan: timeout: 726.4010300250375 seconds overdue
+2021-04-07T16:13:01.455121 INFO root - ric-evans: 87 jobs processed in last minute
+2021-04-07T16:14:24.249091 WARNING root - nega: timeout: 1971.9022853969932 seconds overdue
+2021-04-07T16:16:02.299753 INFO memory_tracker - ric-evans: 86 jobs processed in last minute
+2021-04-07T16:17:34.412783 INFO cpuhog - jnbellinger: 95 jobs processed in last minute
+2021-04-07T16:19:12.609755 INFO memory_tracker - nega: 52 jobs processed in last minute
+2021-04-07T16:19:49.183010 WARNING handlers - jnbellinger: timeout: 1839.050515731976 seconds overdue
+2021-04-07T16:20:33.780474 ERROR memory_tracker - dglo: cpu error: 36.84 used
+2021-04-07T16:20:58.292422 WARNING cpuhog - nega: timeout: 2675.75144235905 seconds overdue
+2021-04-07T16:21:40.393253 INFO handlers - mskarl: 5 jobs processed in last minute
+2021-04-07T16:22:04.721715 INFO cpuhog - austinschneider: 88 jobs processed in last minute
+2021-04-07T16:22:43.026990 ERROR tracker - jnbellinger: cpu error: 39.94 used
+2021-04-07T16:22:43.372064 INFO handlers - nega: 99 jobs processed in last minute
+2021-04-07T16:23:29.212813 ERROR handlers - kjmeagher: cpu error: 33.72 used
+2021-04-07T16:23:43.913829 ERROR tracker - colemanalan: cpu error: 34.62 used
+2021-04-07T16:25:21.551606 INFO cpuhog - clark2668: 60 jobs processed in last minute
+2021-04-07T16:27:01.416730 INFO handlers - ric-evans: 68 jobs processed in last minute
+2021-04-07T16:27:32.044736 INFO memory_tracker - mskarl: 45 jobs processed in last minute
+2021-04-07T16:27:47.123272 WARNING cpuhog - dglo: timeout: 380.23384574758734 seconds overdue
+2021-04-07T16:29:23.257601 INFO cpuhog - colemanalan: 40 jobs processed in last minute
+2021-04-07T16:30:49.367437 WARNING tracker - ric-evans: timeout: 2413.8358264769636 seconds overdue
+2021-04-07T16:31:22.107348 INFO tracker - colemanalan: 42 jobs processed in last minute
+2021-04-07T16:32:23.458973 WARNING handlers - kjmeagher: timeout: 402.71446645766645 seconds overdue
+2021-04-07T16:33:47.075897 INFO memory_tracker - ric-evans: 44 jobs processed in last minute
+2021-04-07T16:34:22.379968 INFO memory_tracker - clark2668: 78 jobs processed in last minute
+2021-04-07T16:34:31.483876 INFO tracker - jnbellinger: 50 jobs processed in last minute
+2021-04-07T16:35:59.373042 INFO tracker - kjmeagher: 15 jobs processed in last minute
+2021-04-07T16:36:20.066685 INFO memory_tracker - aludez: 45 jobs processed in last minute
+2021-04-07T16:37:49.602208 INFO handlers - aludez: 54 jobs processed in last minute
+2021-04-07T16:38:56.078712 INFO root - nega: 86 jobs processed in last minute
+2021-04-07T16:39:46.504526 WARNING cpuhog - nega: timeout: 2452.4774738576057 seconds overdue
+2021-04-07T16:41:08.278181 INFO root - olivas: 69 jobs processed in last minute
+2021-04-07T16:41:45.087676 ERROR cpuhog - olivas: cpu error: 37.52 used
+2021-04-07T16:42:09.651357 INFO cpuhog - colemanalan: 35 jobs processed in last minute
+2021-04-07T16:43:21.873800 INFO handlers - jnbellinger: 91 jobs processed in last minute
+2021-04-07T16:43:22.326664 INFO handlers - jnbellinger: 4 jobs processed in last minute
+2021-04-07T16:44:24.706713 INFO tracker - mskarl: 61 jobs processed in last minute
+2021-04-07T16:44:45.105879 INFO memory_tracker - clark2668: 12 jobs processed in last minute
+2021-04-07T16:46:08.857235 INFO memory_tracker - jnbellinger: 77 jobs processed in last minute
+2021-04-07T16:46:14.479716 INFO tracker - mskarl: 6 jobs processed in last minute
+2021-04-07T16:46:32.445710 INFO memory_tracker - ric-evans: 82 jobs processed in last minute
+2021-04-07T16:47:17.362316 ERROR root - dglo: memory error: 5193265 KB used
+2021-04-07T16:48:08.254014 ERROR handlers - kjmeagher: memory error: 623053 KB used
+2021-04-07T16:48:34.461156 INFO memory_tracker - jnbellinger: 64 jobs processed in last minute
+2021-04-07T16:48:36.386674 INFO cpuhog - mskarl: 86 jobs processed in last minute
+2021-04-07T16:48:49.020604 INFO root - ric-evans: 96 jobs processed in last minute
+2021-04-07T16:49:57.642813 INFO memory_tracker - aludez: 19 jobs processed in last minute
+2021-04-07T16:50:24.701568 INFO tracker - dglo: 61 jobs processed in last minute
+2021-04-07T16:51:46.233585 WARNING root - colemanalan: timeout: 777.1683261159517 seconds overdue
+2021-04-07T16:52:24.786626 INFO handlers - jnbellinger: 79 jobs processed in last minute
+2021-04-07T16:52:38.340118 INFO root - nega: 27 jobs processed in last minute
+2021-04-07T16:53:19.531184 WARNING memory_tracker - blinkdog: timeout: 1308.8791969548713 seconds overdue
+2021-04-07T16:54:16.011512 WARNING cpuhog - olivas: timeout: 729.1482372880203 seconds overdue
+2021-04-07T16:55:03.459298 INFO tracker - kjmeagher: 56 jobs processed in last minute
+2021-04-07T16:56:00.908660 INFO root - kjmeagher: 75 jobs processed in last minute
+2021-04-07T16:56:43.671598 INFO tracker - blinkdog: 61 jobs processed in last minute
+2021-04-07T16:57:36.446376 INFO cpuhog - jnbellinger: 30 jobs processed in last minute
+2021-04-07T16:57:51.889349 INFO cpuhog - jnbellinger: 24 jobs processed in last minute
+2021-04-07T16:58:47.964403 WARNING handlers - blinkdog: timeout: 2448.754248954749 seconds overdue
+2021-04-07T17:00:08.141938 INFO tracker - kjmeagher: 63 jobs processed in last minute
+2021-04-07T17:00:37.517055 INFO tracker - colemanalan: 69 jobs processed in last minute
+2021-04-07T17:01:46.585889 INFO memory_tracker - clark2668: 37 jobs processed in last minute
+2021-04-07T17:01:46.925921 INFO cpuhog - blinkdog: 89 jobs processed in last minute
+2021-04-07T17:02:41.727520 INFO root - ric-evans: 3 jobs processed in last minute
+2021-04-07T17:04:16.664753 INFO memory_tracker - jnbellinger: 12 jobs processed in last minute
+2021-04-07T17:04:48.113372 INFO root - blinkdog: 66 jobs processed in last minute
+2021-04-07T17:05:27.125502 ERROR root - austinschneider: memory error: 9019968 KB used
+2021-04-07T17:06:55.685374 INFO cpuhog - kjmeagher: 42 jobs processed in last minute
+2021-04-07T17:07:23.273007 ERROR cpuhog - austinschneider: memory error: 9988569 KB used
+2021-04-07T17:08:40.187400 INFO tracker - nega: 41 jobs processed in last minute
+2021-04-07T17:09:16.542362 INFO handlers - aludez: 24 jobs processed in last minute
+2021-04-07T17:10:38.349585 INFO cpuhog - olivas: 59 jobs processed in last minute
+2021-04-07T17:12:06.639862 INFO handlers - clark2668: 83 jobs processed in last minute
+2021-04-07T17:13:24.060280 INFO tracker - jnbellinger: 88 jobs processed in last minute
+2021-04-07T17:14:16.191418 INFO memory_tracker - aludez: 72 jobs processed in last minute
+2021-04-07T17:14:33.449210 INFO handlers - mskarl: 20 jobs processed in last minute
+2021-04-07T17:15:24.987732 INFO tracker - jnbellinger: 52 jobs processed in last minute
+2021-04-07T17:16:44.093702 INFO memory_tracker - blinkdog: 22 jobs processed in last minute
+2021-04-07T17:18:16.638813 INFO memory_tracker - clark2668: 42 jobs processed in last minute
+2021-04-07T17:19:40.638296 INFO cpuhog - olivas: 54 jobs processed in last minute
+2021-04-07T17:21:14.408835 INFO root - mskarl: 60 jobs processed in last minute
+2021-04-07T17:21:44.930079 ERROR root - nega: cpu error: 39.40 used
+2021-04-07T17:22:56.083737 INFO tracker - clark2668: 19 jobs processed in last minute
+2021-04-07T17:24:04.019517 INFO cpuhog - mskarl: 9 jobs processed in last minute
+2021-04-07T17:25:26.101518 INFO cpuhog - blinkdog: 73 jobs processed in last minute
+2021-04-07T17:26:11.460935 INFO cpuhog - jnbellinger: 97 jobs processed in last minute
+2021-04-07T17:26:46.051762 ERROR root - austinschneider: cpu error: 33.06 used
+2021-04-07T17:27:07.080306 WARNING cpuhog - nega: timeout: 1088.628806935552 seconds overdue
+2021-04-07T17:28:30.473677 INFO memory_tracker - mskarl: 100 jobs processed in last minute
+2021-04-07T17:28:37.684405 INFO root - ric-evans: 45 jobs processed in last minute
+2021-04-07T17:29:42.965036 INFO tracker - austinschneider: 71 jobs processed in last minute
+2021-04-07T17:30:55.164718 INFO cpuhog - aludez: 31 jobs processed in last minute
+2021-04-07T17:32:10.448964 WARNING tracker - dglo: timeout: 1190.9526765379987 seconds overdue
+2021-04-07T17:32:55.185227 INFO handlers - colemanalan: 68 jobs processed in last minute
+2021-04-07T17:33:33.333490 INFO handlers - mskarl: 57 jobs processed in last minute
+2021-04-07T17:34:15.664370 INFO memory_tracker - olivas: 43 jobs processed in last minute
+2021-04-07T17:34:37.220250 INFO tracker - jnbellinger: 100 jobs processed in last minute
+2021-04-07T17:35:41.957966 INFO memory_tracker - blinkdog: 13 jobs processed in last minute
+2021-04-07T17:35:47.375849 INFO tracker - kjmeagher: 3 jobs processed in last minute
+2021-04-07T17:36:04.641737 INFO root - dglo: 73 jobs processed in last minute
+2021-04-07T17:37:30.219649 ERROR cpuhog - kjmeagher: cpu error: 34.18 used
+2021-04-07T17:37:59.449445 INFO tracker - kjmeagher: 17 jobs processed in last minute
+2021-04-07T17:39:25.223808 INFO tracker - kjmeagher: 47 jobs processed in last minute
+2021-04-07T17:39:37.856487 WARNING handlers - aludez: timeout: 2128.370053185869 seconds overdue
+2021-04-07T17:40:40.113777 INFO cpuhog - kjmeagher: 64 jobs processed in last minute
+2021-04-07T17:40:49.731981 INFO memory_tracker - blinkdog: 83 jobs processed in last minute
+2021-04-07T17:41:20.060761 INFO handlers - mskarl: 73 jobs processed in last minute
+2021-04-07T17:42:21.146536 ERROR tracker - kjmeagher: memory error: 2218058 KB used
+2021-04-07T17:43:23.758921 INFO tracker - blinkdog: 20 jobs processed in last minute
+2021-04-07T17:44:39.877506 INFO root - austinschneider: 20 jobs processed in last minute
+2021-04-07T17:44:57.883409 ERROR handlers - austinschneider: memory error: 5008804 KB used
+2021-04-07T17:45:23.946150 INFO handlers - austinschneider: 4 jobs processed in last minute
+2021-04-07T17:46:23.830340 INFO cpuhog - clark2668: 8 jobs processed in last minute
+2021-04-07T17:46:51.427045 INFO handlers - mskarl: 55 jobs processed in last minute
+2021-04-07T17:47:14.626119 INFO handlers - blinkdog: 35 jobs processed in last minute
+2021-04-07T17:47:50.277843 INFO handlers - jnbellinger: 38 jobs processed in last minute
+2021-04-07T17:48:37.681602 INFO memory_tracker - colemanalan: 11 jobs processed in last minute
+2021-04-07T17:49:50.318692 INFO memory_tracker - jnbellinger: 55 jobs processed in last minute
+2021-04-07T17:49:59.099921 INFO handlers - austinschneider: 14 jobs processed in last minute
+2021-04-07T17:50:17.246899 INFO tracker - mskarl: 85 jobs processed in last minute
+2021-04-07T17:51:31.939653 WARNING handlers - ric-evans: timeout: 251.2647963111792 seconds overdue
+2021-04-07T17:52:21.093238 WARNING root - kjmeagher: timeout: 2521.4181721931304 seconds overdue
+2021-04-07T17:53:23.709630 WARNING memory_tracker - clark2668: timeout: 2289.3015138942446 seconds overdue
+2021-04-07T17:54:26.854468 WARNING handlers - colemanalan: timeout: 3341.1703803654623 seconds overdue
+2021-04-07T17:54:48.701004 INFO cpuhog - nega: 52 jobs processed in last minute
+2021-04-07T17:55:24.230738 INFO handlers - ric-evans: 10 jobs processed in last minute
+2021-04-07T17:56:48.416630 INFO root - blinkdog: 56 jobs processed in last minute
+2021-04-07T17:58:02.964875 INFO root - aludez: 93 jobs processed in last minute
+2021-04-07T17:59:06.874650 INFO root - dglo: 82 jobs processed in last minute
+2021-04-07T18:00:04.321266 WARNING tracker - ric-evans: timeout: 1016.3913249554553 seconds overdue
+2021-04-07T18:00:34.534070 INFO handlers - clark2668: 15 jobs processed in last minute
+2021-04-07T18:00:45.704339 INFO root - nega: 40 jobs processed in last minute
+2021-04-07T18:02:22.889399 INFO root - clark2668: 98 jobs processed in last minute
+2021-04-07T18:02:36.651074 INFO memory_tracker - mskarl: 19 jobs processed in last minute
+2021-04-07T18:02:43.431939 INFO handlers - dglo: 90 jobs processed in last minute
+2021-04-07T18:03:39.576790 INFO handlers - colemanalan: 74 jobs processed in last minute
+2021-04-07T18:04:34.986405 INFO tracker - nega: 9 jobs processed in last minute
+2021-04-07T18:04:49.211376 INFO cpuhog - ric-evans: 31 jobs processed in last minute
+2021-04-07T18:05:06.577179 INFO memory_tracker - jnbellinger: 16 jobs processed in last minute
+2021-04-07T18:05:13.839296 INFO tracker - mskarl: 43 jobs processed in last minute
+2021-04-07T18:06:26.776066 INFO handlers - kjmeagher: 83 jobs processed in last minute
+2021-04-07T18:08:00.246151 INFO root - nega: 20 jobs processed in last minute
+2021-04-07T18:09:01.930663 WARNING handlers - olivas: timeout: 561.8210541988358 seconds overdue
+2021-04-07T18:09:42.766168 INFO handlers - ric-evans: 39 jobs processed in last minute
+2021-04-07T18:10:43.459162 ERROR memory_tracker - colemanalan: cpu error: 31.43 used
+2021-04-07T18:12:01.764276 INFO tracker - dglo: 32 jobs processed in last minute
+2021-04-07T18:12:41.967541 WARNING memory_tracker - dglo: timeout: 3276.661781128364 seconds overdue
+2021-04-07T18:14:12.255489 WARNING root - nega: timeout: 495.18054759324536 seconds overdue
+2021-04-07T18:14:33.371035 INFO root - colemanalan: 64 jobs processed in last minute
+2021-04-07T18:14:36.568260 WARNING tracker - jnbellinger: timeout: 747.5831787089371 seconds overdue
+2021-04-07T18:15:05.930411 INFO root - nega: 86 jobs processed in last minute
+2021-04-07T18:15:37.107991 INFO handlers - nega: 78 jobs processed in last minute
+2021-04-07T18:17:10.144010 INFO handlers - clark2668: 79 jobs processed in last minute
+2021-04-07T18:17:45.372819 INFO memory_tracker - clark2668: 74 jobs processed in last minute
+2021-04-07T18:18:27.323837 INFO tracker - austinschneider: 58 jobs processed in last minute
+2021-04-07T18:19:22.993278 ERROR tracker - colemanalan: memory error: 6754933 KB used
+2021-04-07T18:20:57.961623 INFO cpuhog - austinschneider: 26 jobs processed in last minute
+2021-04-07T18:21:28.349044 INFO handlers - colemanalan: 46 jobs processed in last minute
+2021-04-07T18:23:08.152583 INFO handlers - aludez: 76 jobs processed in last minute
+2021-04-07T18:23:43.902714 INFO cpuhog - mskarl: 75 jobs processed in last minute
+2021-04-07T18:25:05.673931 INFO memory_tracker - aludez: 64 jobs processed in last minute
+2021-04-07T18:26:13.051186 INFO handlers - nega: 96 jobs processed in last minute
+2021-04-07T18:27:50.853293 INFO root - kjmeagher: 17 jobs processed in last minute
+2021-04-07T18:29:29.608523 WARNING tracker - mskarl: timeout: 2678.371602582267 seconds overdue
+2021-04-07T18:30:15.717149 WARNING cpuhog - dglo: timeout: 2831.5542957532434 seconds overdue
+2021-04-07T18:30:17.074650 ERROR tracker - dglo: cpu error: 34.55 used
+2021-04-07T18:31:49.394276 INFO cpuhog - olivas: 28 jobs processed in last minute
+2021-04-07T18:32:03.470183 INFO handlers - blinkdog: 24 jobs processed in last minute
+2021-04-07T18:33:13.069250 WARNING root - mskarl: timeout: 893.513498373681 seconds overdue
+2021-04-07T18:34:50.571931 INFO memory_tracker - blinkdog: 62 jobs processed in last minute
+2021-04-07T18:35:11.594359 INFO tracker - dglo: 42 jobs processed in last minute
+2021-04-07T18:35:12.628595 INFO memory_tracker - mskarl: 64 jobs processed in last minute
+2021-04-07T18:36:31.754520 WARNING memory_tracker - mskarl: timeout: 2083.1303337151226 seconds overdue
+2021-04-07T18:37:55.541046 INFO memory_tracker - ric-evans: 79 jobs processed in last minute
+2021-04-07T18:38:26.635524 INFO cpuhog - olivas: 82 jobs processed in last minute
+2021-04-07T18:38:37.462277 INFO handlers - dglo: 7 jobs processed in last minute
+2021-04-07T18:39:41.280951 WARNING cpuhog - austinschneider: timeout: 1875.9769643931022 seconds overdue
+2021-04-07T18:40:56.030375 WARNING root - mskarl: timeout: 1209.3225956534195 seconds overdue
+2021-04-07T18:41:20.358382 WARNING handlers - jnbellinger: timeout: 1430.2257383715312 seconds overdue
+2021-04-07T18:42:04.009462 WARNING memory_tracker - blinkdog: timeout: 2682.668120561637 seconds overdue
+2021-04-07T18:42:49.919138 INFO cpuhog - austinschneider: 21 jobs processed in last minute
+2021-04-07T18:42:53.314568 WARNING tracker - blinkdog: timeout: 2444.125593210615 seconds overdue
+2021-04-07T18:43:05.567468 INFO root - austinschneider: 79 jobs processed in last minute
+2021-04-07T18:43:31.622151 INFO handlers - mskarl: 32 jobs processed in last minute
+2021-04-07T18:43:59.354407 WARNING tracker - aludez: timeout: 234.33664754284496 seconds overdue
+2021-04-07T18:45:18.774640 INFO tracker - colemanalan: 59 jobs processed in last minute
+2021-04-07T18:46:55.060479 ERROR tracker - nega: cpu error: 39.61 used
+2021-04-07T18:47:25.169190 ERROR tracker - ric-evans: memory error: 9078439 KB used
+2021-04-07T18:47:28.718946 WARNING memory_tracker - colemanalan: timeout: 1668.2186105864778 seconds overdue
+2021-04-07T18:48:33.844220 INFO handlers - mskarl: 26 jobs processed in last minute
+2021-04-07T18:49:44.014398 INFO handlers - kjmeagher: 47 jobs processed in last minute
+2021-04-07T18:49:52.270316 WARNING cpuhog - kjmeagher: timeout: 1196.7682003549844 seconds overdue
+2021-04-07T18:51:14.967968 ERROR root - kjmeagher: cpu error: 31.16 used
+2021-04-07T18:52:17.039652 INFO handlers - aludez: 82 jobs processed in last minute
+2021-04-07T18:52:37.484148 INFO tracker - aludez: 48 jobs processed in last minute
+2021-04-07T18:54:03.790306 WARNING memory_tracker - austinschneider: timeout: 3371.3452626028825 seconds overdue
+2021-04-07T18:54:32.531007 INFO tracker - nega: 72 jobs processed in last minute
+2021-04-07T18:55:35.656780 INFO handlers - dglo: 50 jobs processed in last minute
+2021-04-07T18:56:38.900460 ERROR root - jnbellinger: memory error: 7056724 KB used
+2021-04-07T18:57:36.112958 INFO cpuhog - olivas: 61 jobs processed in last minute
+2021-04-07T18:58:19.417512 INFO memory_tracker - dglo: 95 jobs processed in last minute
+2021-04-07T18:59:44.628005 INFO tracker - jnbellinger: 94 jobs processed in last minute
+2021-04-07T18:59:46.336245 INFO root - clark2668: 36 jobs processed in last minute
+2021-04-07T19:00:39.146319 INFO root - jnbellinger: 96 jobs processed in last minute
+2021-04-07T19:01:15.734541 INFO handlers - mskarl: 46 jobs processed in last minute
+2021-04-07T19:01:53.881684 WARNING handlers - olivas: timeout: 2663.686008764814 seconds overdue
+2021-04-07T19:02:42.276416 INFO tracker - jnbellinger: 19 jobs processed in last minute
+2021-04-07T19:04:15.763127 WARNING root - colemanalan: timeout: 3365.26780189334 seconds overdue
+2021-04-07T19:04:34.020079 INFO handlers - olivas: 24 jobs processed in last minute
+2021-04-07T19:04:44.041654 INFO root - jnbellinger: 63 jobs processed in last minute
+2021-04-07T19:05:37.673445 WARNING cpuhog - kjmeagher: timeout: 3385.3662348328553 seconds overdue
+2021-04-07T19:05:38.646890 WARNING cpuhog - blinkdog: timeout: 1845.4516623455809 seconds overdue
+2021-04-07T19:06:31.029843 INFO cpuhog - ric-evans: 48 jobs processed in last minute
+2021-04-07T19:07:48.148639 INFO memory_tracker - blinkdog: 99 jobs processed in last minute
+2021-04-07T19:08:40.227089 WARNING cpuhog - austinschneider: timeout: 2332.6353523459316 seconds overdue
+2021-04-07T19:08:58.717831 INFO tracker - jnbellinger: 73 jobs processed in last minute
+2021-04-07T19:08:59.022890 INFO cpuhog - jnbellinger: 78 jobs processed in last minute
+2021-04-07T19:09:56.969872 INFO root - kjmeagher: 19 jobs processed in last minute
+2021-04-07T19:10:18.540093 INFO cpuhog - mskarl: 96 jobs processed in last minute
+2021-04-07T19:11:00.963378 INFO root - ric-evans: 18 jobs processed in last minute
+2021-04-07T19:11:51.280613 INFO root - nega: 66 jobs processed in last minute
+2021-04-07T19:12:54.548428 ERROR cpuhog - colemanalan: cpu error: 37.47 used
+2021-04-07T19:13:41.540025 INFO tracker - blinkdog: 72 jobs processed in last minute
+2021-04-07T19:15:15.906475 INFO tracker - blinkdog: 9 jobs processed in last minute
+2021-04-07T19:15:34.539697 INFO memory_tracker - clark2668: 11 jobs processed in last minute
+2021-04-07T19:17:01.358056 WARNING memory_tracker - mskarl: timeout: 2386.8396241814953 seconds overdue
+2021-04-07T19:17:43.996973 INFO handlers - austinschneider: 28 jobs processed in last minute
+2021-04-07T19:18:05.707097 INFO handlers - austinschneider: 11 jobs processed in last minute
+2021-04-07T19:19:18.224760 INFO cpuhog - nega: 54 jobs processed in last minute
+2021-04-07T19:19:37.198243 INFO handlers - nega: 14 jobs processed in last minute
+2021-04-07T19:20:56.064072 INFO root - jnbellinger: 26 jobs processed in last minute
+2021-04-07T19:22:24.343468 WARNING handlers - dglo: timeout: 2687.5762496428747 seconds overdue
+2021-04-07T19:23:05.663288 INFO tracker - ric-evans: 40 jobs processed in last minute
+2021-04-07T19:24:18.772292 INFO cpuhog - colemanalan: 72 jobs processed in last minute
+2021-04-07T19:24:46.464191 WARNING root - dglo: timeout: 52.51967051565494 seconds overdue
+2021-04-07T19:25:13.913423 INFO root - mskarl: 31 jobs processed in last minute
+2021-04-07T19:26:22.820628 WARNING root - nega: timeout: 3575.6988913074997 seconds overdue
+2021-04-07T19:28:00.745824 INFO tracker - blinkdog: 5 jobs processed in last minute
+2021-04-07T19:29:10.853292 INFO handlers - colemanalan: 37 jobs processed in last minute
+2021-04-07T19:30:39.647251 INFO tracker - dglo: 28 jobs processed in last minute
+2021-04-07T19:30:58.895723 INFO memory_tracker - mskarl: 78 jobs processed in last minute
+2021-04-07T19:31:12.112339 WARNING memory_tracker - kjmeagher: timeout: 1205.5691716230172 seconds overdue
+2021-04-07T19:31:15.662707 INFO handlers - dglo: 87 jobs processed in last minute
+2021-04-07T19:32:51.867394 INFO memory_tracker - austinschneider: 79 jobs processed in last minute
+2021-04-07T19:33:17.831324 INFO tracker - jnbellinger: 55 jobs processed in last minute
+2021-04-07T19:33:47.331587 INFO memory_tracker - nega: 32 jobs processed in last minute
+2021-04-07T19:34:55.219027 ERROR root - dglo: memory error: 1144069 KB used
+2021-04-07T19:36:20.932218 WARNING tracker - blinkdog: timeout: 1926.757726913966 seconds overdue
+2021-04-07T19:37:25.181718 WARNING memory_tracker - aludez: timeout: 2580.7415170083223 seconds overdue
+2021-04-07T19:37:31.116265 WARNING memory_tracker - clark2668: timeout: 3064.238144471876 seconds overdue
+2021-04-07T19:37:40.196607 INFO root - olivas: 54 jobs processed in last minute
+2021-04-07T19:38:14.655466 WARNING cpuhog - dglo: timeout: 3070.520696751923 seconds overdue
+2021-04-07T19:38:49.745145 INFO handlers - clark2668: 99 jobs processed in last minute
+2021-04-07T19:39:03.132134 INFO tracker - kjmeagher: 55 jobs processed in last minute
+2021-04-07T19:39:16.587712 INFO memory_tracker - clark2668: 27 jobs processed in last minute
+2021-04-07T19:39:55.108403 WARNING cpuhog - olivas: timeout: 2093.1550955333005 seconds overdue
+2021-04-07T19:41:15.609920 INFO tracker - clark2668: 69 jobs processed in last minute
+2021-04-07T19:42:40.309853 INFO handlers - dglo: 62 jobs processed in last minute
+2021-04-07T19:43:38.678621 INFO memory_tracker - blinkdog: 69 jobs processed in last minute
+2021-04-07T19:44:53.783596 WARNING memory_tracker - clark2668: timeout: 1529.0727315196314 seconds overdue
+2021-04-07T19:45:03.449033 INFO root - kjmeagher: 28 jobs processed in last minute
+2021-04-07T19:45:59.827477 ERROR cpuhog - mskarl: cpu error: 40.00 used
+2021-04-07T19:46:32.288544 ERROR memory_tracker - olivas: memory error: 203774 KB used
+2021-04-07T19:47:50.688232 INFO tracker - kjmeagher: 51 jobs processed in last minute
+2021-04-07T19:47:52.227668 INFO handlers - olivas: 86 jobs processed in last minute
+2021-04-07T19:49:30.380963 ERROR tracker - blinkdog: cpu error: 32.73 used
+2021-04-07T19:49:58.503053 INFO memory_tracker - colemanalan: 62 jobs processed in last minute
+2021-04-07T19:51:01.957723 INFO memory_tracker - olivas: 71 jobs processed in last minute
+2021-04-07T19:51:03.161403 INFO memory_tracker - clark2668: 91 jobs processed in last minute
+2021-04-07T19:52:39.677654 INFO root - colemanalan: 93 jobs processed in last minute
+2021-04-07T19:54:13.539153 INFO handlers - olivas: 99 jobs processed in last minute
+2021-04-07T19:54:57.724287 INFO cpuhog - colemanalan: 25 jobs processed in last minute
+2021-04-07T19:55:47.992031 INFO cpuhog - jnbellinger: 96 jobs processed in last minute
+2021-04-07T19:57:05.372956 INFO root - clark2668: 37 jobs processed in last minute
+2021-04-07T19:58:39.748503 INFO root - aludez: 42 jobs processed in last minute
+2021-04-07T20:00:07.334567 WARNING memory_tracker - ric-evans: timeout: 2704.5955070559357 seconds overdue
+2021-04-07T20:00:23.229196 WARNING memory_tracker - austinschneider: timeout: 515.5868949287068 seconds overdue
+2021-04-07T20:01:12.012538 INFO memory_tracker - olivas: 57 jobs processed in last minute
+2021-04-07T20:02:02.264938 INFO cpuhog - clark2668: 3 jobs processed in last minute
+2021-04-07T20:02:41.365281 INFO handlers - colemanalan: 59 jobs processed in last minute
+2021-04-07T20:02:43.787929 INFO cpuhog - dglo: 19 jobs processed in last minute
+2021-04-07T20:03:26.795935 INFO memory_tracker - kjmeagher: 10 jobs processed in last minute
+2021-04-07T20:04:46.558416 WARNING cpuhog - ric-evans: timeout: 1862.1761783887207 seconds overdue
+2021-04-07T20:05:18.416317 INFO memory_tracker - nega: 88 jobs processed in last minute
+2021-04-07T20:06:44.031318 INFO tracker - olivas: 66 jobs processed in last minute
+2021-04-07T20:07:17.200304 INFO memory_tracker - jnbellinger: 99 jobs processed in last minute
+2021-04-07T20:07:27.088735 INFO cpuhog - colemanalan: 52 jobs processed in last minute
+2021-04-07T20:07:52.917172 WARNING handlers - clark2668: timeout: 2588.3313679383255 seconds overdue
+2021-04-07T20:08:45.468611 INFO tracker - olivas: 91 jobs processed in last minute
+2021-04-07T20:10:02.762166 INFO handlers - ric-evans: 80 jobs processed in last minute
+2021-04-07T20:10:37.616829 INFO root - colemanalan: 11 jobs processed in last minute
+2021-04-07T20:12:02.364139 INFO memory_tracker - olivas: 39 jobs processed in last minute
+2021-04-07T20:12:26.022469 INFO memory_tracker - austinschneider: 49 jobs processed in last minute
+2021-04-07T20:14:03.508399 INFO memory_tracker - jnbellinger: 60 jobs processed in last minute
+2021-04-07T20:14:18.307814 INFO cpuhog - mskarl: 86 jobs processed in last minute
+2021-04-07T20:15:31.899867 WARNING tracker - clark2668: timeout: 21.616006957209333 seconds overdue
+2021-04-07T20:15:33.580536 INFO root - nega: 91 jobs processed in last minute
+2021-04-07T20:15:52.376698 WARNING cpuhog - dglo: timeout: 1346.5256677872615 seconds overdue
+2021-04-07T20:16:56.677924 INFO cpuhog - nega: 13 jobs processed in last minute
+2021-04-07T20:17:12.333812 INFO tracker - dglo: 49 jobs processed in last minute
+2021-04-07T20:17:24.011734 WARNING cpuhog - kjmeagher: timeout: 2590.4921942481897 seconds overdue
+2021-04-07T20:18:24.356012 INFO memory_tracker - aludez: 54 jobs processed in last minute
+2021-04-07T20:19:17.258552 INFO root - ric-evans: 73 jobs processed in last minute
+2021-04-07T20:20:32.779776 INFO cpuhog - blinkdog: 38 jobs processed in last minute
+2021-04-07T20:21:52.405783 WARNING cpuhog - mskarl: timeout: 3230.1589666356094 seconds overdue
+2021-04-07T20:22:07.706896 INFO cpuhog - austinschneider: 19 jobs processed in last minute
+2021-04-07T20:22:57.372937 ERROR cpuhog - austinschneider: cpu error: 35.33 used
+2021-04-07T20:23:42.125655 INFO tracker - jnbellinger: 56 jobs processed in last minute
+2021-04-07T20:25:00.558231 INFO tracker - clark2668: 84 jobs processed in last minute
+2021-04-07T20:26:31.592176 INFO cpuhog - blinkdog: 4 jobs processed in last minute
+2021-04-07T20:27:21.671865 ERROR handlers - nega: memory error: 7126543 KB used
+2021-04-07T20:28:40.310184 INFO handlers - blinkdog: 21 jobs processed in last minute
+2021-04-07T20:29:42.438100 WARNING handlers - austinschneider: timeout: 3291.359876263342 seconds overdue
+2021-04-07T20:29:44.931718 INFO cpuhog - austinschneider: 82 jobs processed in last minute
+2021-04-07T20:31:16.560538 INFO tracker - aludez: 93 jobs processed in last minute
+2021-04-07T20:32:11.104550 INFO root - nega: 75 jobs processed in last minute
+2021-04-07T20:33:04.532825 WARNING tracker - dglo: timeout: 3547.829837668063 seconds overdue
+2021-04-07T20:33:44.119619 INFO cpuhog - clark2668: 1 jobs processed in last minute
+2021-04-07T20:34:05.568994 WARNING memory_tracker - kjmeagher: timeout: 3067.303352302925 seconds overdue
+2021-04-07T20:35:44.175277 INFO memory_tracker - jnbellinger: 15 jobs processed in last minute
+2021-04-07T20:36:27.817971 INFO cpuhog - nega: 82 jobs processed in last minute
+2021-04-07T20:38:03.741842 INFO root - ric-evans: 64 jobs processed in last minute
+2021-04-07T20:38:25.132126 INFO cpuhog - kjmeagher: 57 jobs processed in last minute
+2021-04-07T20:38:56.697566 INFO root - kjmeagher: 97 jobs processed in last minute
+2021-04-07T20:39:09.775275 INFO cpuhog - austinschneider: 71 jobs processed in last minute
+2021-04-07T20:39:15.615179 WARNING root - jnbellinger: timeout: 1311.8128676239771 seconds overdue
+2021-04-07T20:40:09.832831 ERROR tracker - nega: memory error: 2056672 KB used
+2021-04-07T20:40:21.025386 WARNING memory_tracker - ric-evans: timeout: 1264.605137926058 seconds overdue
+2021-04-07T20:40:47.397516 INFO root - ric-evans: 64 jobs processed in last minute
+2021-04-07T20:42:07.134424 INFO memory_tracker - mskarl: 95 jobs processed in last minute
+2021-04-07T20:42:28.622219 INFO root - kjmeagher: 75 jobs processed in last minute
+2021-04-07T20:43:13.516304 INFO memory_tracker - mskarl: 58 jobs processed in last minute
+2021-04-07T20:44:06.783212 INFO tracker - nega: 62 jobs processed in last minute
+2021-04-07T20:44:16.114508 INFO root - aludez: 19 jobs processed in last minute
+2021-04-07T20:45:37.634048 INFO handlers - mskarl: 58 jobs processed in last minute
+2021-04-07T20:45:37.944753 WARNING root - ric-evans: timeout: 1943.914049928445 seconds overdue
+2021-04-07T20:46:39.232648 INFO memory_tracker - clark2668: 51 jobs processed in last minute
+2021-04-07T20:46:48.327242 INFO handlers - blinkdog: 59 jobs processed in last minute
+2021-04-07T20:47:10.103509 WARNING tracker - kjmeagher: timeout: 705.5767068220077 seconds overdue
+2021-04-07T20:47:53.394236 INFO root - blinkdog: 8 jobs processed in last minute
+2021-04-07T20:48:35.889141 INFO root - ric-evans: 22 jobs processed in last minute
+2021-04-07T20:49:01.327193 INFO handlers - kjmeagher: 70 jobs processed in last minute
+2021-04-07T20:50:28.765731 INFO memory_tracker - mskarl: 83 jobs processed in last minute
+2021-04-07T20:52:05.605028 INFO cpuhog - jnbellinger: 38 jobs processed in last minute
+2021-04-07T20:53:23.317495 INFO cpuhog - clark2668: 87 jobs processed in last minute
+2021-04-07T20:54:42.956272 ERROR memory_tracker - ric-evans: cpu error: 30.35 used
+2021-04-07T20:56:15.531538 INFO root - ric-evans: 77 jobs processed in last minute
+2021-04-07T20:57:15.919553 INFO cpuhog - blinkdog: 13 jobs processed in last minute
+2021-04-07T20:58:11.492235 INFO cpuhog - clark2668: 100 jobs processed in last minute
+2021-04-07T20:59:48.369559 WARNING cpuhog - kjmeagher: timeout: 43.85393441463599 seconds overdue
+2021-04-07T21:00:50.870975 INFO memory_tracker - austinschneider: 33 jobs processed in last minute
+2021-04-07T21:01:27.658477 INFO root - austinschneider: 29 jobs processed in last minute
+2021-04-07T21:02:34.193217 WARNING root - austinschneider: timeout: 196.6100908927536 seconds overdue
+2021-04-07T21:03:15.038671 INFO tracker - clark2668: 17 jobs processed in last minute
+2021-04-07T21:03:56.914847 INFO handlers - aludez: 100 jobs processed in last minute
+2021-04-07T21:04:03.760598 INFO memory_tracker - mskarl: 60 jobs processed in last minute
+2021-04-07T21:05:33.960987 WARNING tracker - clark2668: timeout: 1138.6197851021302 seconds overdue
+2021-04-07T21:06:08.638177 INFO cpuhog - mskarl: 31 jobs processed in last minute
+2021-04-07T21:06:52.041003 INFO cpuhog - mskarl: 76 jobs processed in last minute
+2021-04-07T21:07:06.818203 INFO root - mskarl: 99 jobs processed in last minute
+2021-04-07T21:08:33.801165 INFO handlers - nega: 4 jobs processed in last minute
+2021-04-07T21:09:18.897243 INFO handlers - colemanalan: 9 jobs processed in last minute
+2021-04-07T21:09:47.614914 INFO root - olivas: 15 jobs processed in last minute
+2021-04-07T21:10:18.898474 INFO memory_tracker - dglo: 56 jobs processed in last minute
+2021-04-07T21:10:35.960172 INFO cpuhog - olivas: 22 jobs processed in last minute
+2021-04-07T21:10:54.923465 INFO root - clark2668: 83 jobs processed in last minute
+2021-04-07T21:11:59.027397 INFO tracker - ric-evans: 2 jobs processed in last minute
+2021-04-07T21:12:48.828569 INFO root - jnbellinger: 96 jobs processed in last minute
+2021-04-07T21:14:02.267520 INFO cpuhog - aludez: 34 jobs processed in last minute
+2021-04-07T21:15:03.076336 INFO cpuhog - austinschneider: 33 jobs processed in last minute
+2021-04-07T21:15:20.217468 WARNING tracker - austinschneider: timeout: 1512.9395669375667 seconds overdue
+2021-04-07T21:16:29.318797 INFO handlers - austinschneider: 42 jobs processed in last minute
+2021-04-07T21:16:37.849544 INFO handlers - colemanalan: 94 jobs processed in last minute
+2021-04-07T21:16:58.510525 INFO tracker - kjmeagher: 45 jobs processed in last minute
+2021-04-07T21:17:36.424457 INFO cpuhog - olivas: 77 jobs processed in last minute
+2021-04-07T21:19:08.987554 INFO memory_tracker - mskarl: 57 jobs processed in last minute
+2021-04-07T21:20:31.830091 INFO root - clark2668: 80 jobs processed in last minute
+2021-04-07T21:21:56.392022 INFO root - kjmeagher: 38 jobs processed in last minute
+2021-04-07T21:22:06.188537 ERROR handlers - colemanalan: memory error: 6986131 KB used
+2021-04-07T21:22:39.568856 INFO handlers - clark2668: 10 jobs processed in last minute
+2021-04-07T21:23:38.846097 INFO cpuhog - austinschneider: 8 jobs processed in last minute
+2021-04-07T21:23:45.546844 INFO tracker - ric-evans: 54 jobs processed in last minute
+2021-04-07T21:24:07.190788 WARNING root - aludez: timeout: 2436.8027678142544 seconds overdue
+2021-04-07T21:24:49.427790 WARNING root - aludez: timeout: 728.3562432737023 seconds overdue
+2021-04-07T21:25:49.139091 INFO handlers - aludez: 70 jobs processed in last minute
+2021-04-07T21:25:55.175929 WARNING cpuhog - mskarl: timeout: 1192.548403460643 seconds overdue
+2021-04-07T21:27:24.200400 INFO root - olivas: 89 jobs processed in last minute
+2021-04-07T21:28:19.789292 INFO cpuhog - dglo: 43 jobs processed in last minute
+2021-04-07T21:28:23.072974 WARNING cpuhog - austinschneider: timeout: 2693.051286463975 seconds overdue
+2021-04-07T21:29:36.855503 WARNING handlers - nega: timeout: 2983.3970224226578 seconds overdue
+2021-04-07T21:31:11.627941 INFO handlers - clark2668: 10 jobs processed in last minute
+2021-04-07T21:31:19.724414 INFO handlers - ric-evans: 58 jobs processed in last minute
+2021-04-07T21:31:25.872652 INFO handlers - blinkdog: 45 jobs processed in last minute
+2021-04-07T21:32:24.098864 ERROR root - aludez: cpu error: 34.88 used
+2021-04-07T21:33:05.587855 INFO tracker - kjmeagher: 24 jobs processed in last minute
+2021-04-07T21:33:48.263831 INFO root - kjmeagher: 13 jobs processed in last minute
+2021-04-07T21:34:49.126408 INFO memory_tracker - aludez: 5 jobs processed in last minute
+2021-04-07T21:35:33.469262 INFO handlers - jnbellinger: 77 jobs processed in last minute
+2021-04-07T21:36:46.700631 ERROR handlers - olivas: cpu error: 33.71 used
+2021-04-07T21:37:40.241464 WARNING root - clark2668: timeout: 2798.4748755097094 seconds overdue
+2021-04-07T21:38:49.954046 INFO cpuhog - kjmeagher: 39 jobs processed in last minute
+2021-04-07T21:39:14.357753 INFO root - olivas: 6 jobs processed in last minute
+2021-04-07T21:39:56.421042 INFO cpuhog - mskarl: 52 jobs processed in last minute
+2021-04-07T21:41:14.368759 INFO root - olivas: 4 jobs processed in last minute
+2021-04-07T21:41:35.553398 ERROR tracker - dglo: cpu error: 30.24 used
+2021-04-07T21:42:48.576309 ERROR root - colemanalan: memory error: 7851688 KB used
+2021-04-07T21:44:16.182848 WARNING memory_tracker - olivas: timeout: 2659.4040722189393 seconds overdue
+2021-04-07T21:45:00.180875 INFO handlers - kjmeagher: 53 jobs processed in last minute
+2021-04-07T21:46:27.509877 INFO tracker - nega: 52 jobs processed in last minute
+2021-04-07T21:46:50.973631 INFO cpuhog - mskarl: 54 jobs processed in last minute
+2021-04-07T21:47:38.493804 WARNING memory_tracker - jnbellinger: timeout: 324.02976883216803 seconds overdue
+2021-04-07T21:47:56.940064 ERROR handlers - ric-evans: cpu error: 36.39 used
+2021-04-07T21:48:38.212094 ERROR handlers - olivas: cpu error: 31.94 used
+2021-04-07T21:49:39.564879 INFO root - aludez: 48 jobs processed in last minute
+2021-04-07T21:50:14.406541 WARNING handlers - blinkdog: timeout: 2745.1984542741543 seconds overdue
+2021-04-07T21:50:36.731715 INFO tracker - dglo: 32 jobs processed in last minute
+2021-04-07T21:50:54.419450 INFO tracker - clark2668: 89 jobs processed in last minute
+2021-04-07T21:50:59.365540 INFO cpuhog - austinschneider: 69 jobs processed in last minute
+2021-04-07T21:52:04.723244 INFO memory_tracker - ric-evans: 46 jobs processed in last minute
+2021-04-07T21:52:08.766719 WARNING memory_tracker - olivas: timeout: 2161.380919826964 seconds overdue
+2021-04-07T21:52:33.209108 INFO handlers - olivas: 86 jobs processed in last minute
+2021-04-07T21:53:11.372506 INFO cpuhog - clark2668: 100 jobs processed in last minute
+2021-04-07T21:54:23.317755 INFO memory_tracker - colemanalan: 91 jobs processed in last minute
+2021-04-07T21:55:06.753186 INFO tracker - clark2668: 34 jobs processed in last minute
+2021-04-07T21:56:21.612121 WARNING root - mskarl: timeout: 898.4645650528405 seconds overdue
+2021-04-07T21:57:44.177799 INFO handlers - dglo: 2 jobs processed in last minute
+2021-04-07T21:59:04.341898 INFO root - ric-evans: 18 jobs processed in last minute
+2021-04-07T22:00:19.050811 ERROR root - austinschneider: cpu error: 38.16 used
+2021-04-07T22:01:53.681769 ERROR tracker - olivas: memory error: 6575501 KB used
+2021-04-07T22:02:06.474927 INFO handlers - ric-evans: 32 jobs processed in last minute
+2021-04-07T22:02:46.997184 INFO cpuhog - aludez: 2 jobs processed in last minute
+2021-04-07T22:03:32.599070 INFO cpuhog - mskarl: 9 jobs processed in last minute
+2021-04-07T22:04:18.430687 INFO root - dglo: 85 jobs processed in last minute
+2021-04-07T22:04:40.815492 INFO root - colemanalan: 25 jobs processed in last minute
+2021-04-07T22:06:15.747244 INFO handlers - kjmeagher: 7 jobs processed in last minute
+2021-04-07T22:06:38.582055 WARNING root - mskarl: timeout: 922.3878524145829 seconds overdue
+2021-04-07T22:07:28.928967 INFO tracker - colemanalan: 77 jobs processed in last minute
+2021-04-07T22:07:57.211345 INFO root - kjmeagher: 62 jobs processed in last minute
+2021-04-07T22:08:57.573882 ERROR memory_tracker - jnbellinger: memory error: 7630556 KB used
+2021-04-07T22:09:50.090173 WARNING cpuhog - dglo: timeout: 242.94941733622247 seconds overdue
+2021-04-07T22:09:55.455949 INFO root - ric-evans: 38 jobs processed in last minute
+2021-04-07T22:09:57.367557 INFO root - jnbellinger: 14 jobs processed in last minute
+2021-04-07T22:10:25.703016 INFO root - aludez: 44 jobs processed in last minute
+2021-04-07T22:11:47.278954 INFO handlers - austinschneider: 50 jobs processed in last minute
+2021-04-07T22:12:33.500810 INFO cpuhog - austinschneider: 16 jobs processed in last minute
+2021-04-07T22:14:01.728371 ERROR cpuhog - jnbellinger: cpu error: 36.34 used
+2021-04-07T22:14:51.994839 INFO root - clark2668: 86 jobs processed in last minute
+2021-04-07T22:14:52.508337 INFO cpuhog - clark2668: 63 jobs processed in last minute
+2021-04-07T22:15:33.619573 WARNING tracker - jnbellinger: timeout: 2649.2064791431194 seconds overdue
+2021-04-07T22:16:38.429251 INFO tracker - ric-evans: 89 jobs processed in last minute
+2021-04-07T22:17:20.878818 INFO root - kjmeagher: 73 jobs processed in last minute
+2021-04-07T22:18:33.481393 INFO memory_tracker - clark2668: 70 jobs processed in last minute
+2021-04-07T22:19:05.082192 INFO memory_tracker - mskarl: 50 jobs processed in last minute
+2021-04-07T22:19:20.791306 WARNING tracker - mskarl: timeout: 2498.6667247720516 seconds overdue
+2021-04-07T22:20:05.889256 WARNING memory_tracker - blinkdog: timeout: 3254.0814611835935 seconds overdue
+2021-04-07T22:21:24.708599 INFO memory_tracker - olivas: 53 jobs processed in last minute
+2021-04-07T22:22:15.725525 INFO tracker - dglo: 46 jobs processed in last minute
+2021-04-07T22:23:24.956203 INFO tracker - dglo: 3 jobs processed in last minute
+2021-04-07T22:24:53.837848 INFO memory_tracker - nega: 68 jobs processed in last minute
+2021-04-07T22:25:44.477213 INFO handlers - colemanalan: 2 jobs processed in last minute
+2021-04-07T22:25:53.026094 INFO root - nega: 23 jobs processed in last minute
+2021-04-07T22:26:02.846115 INFO root - nega: 75 jobs processed in last minute
+2021-04-07T22:26:10.420641 INFO root - dglo: 30 jobs processed in last minute
+2021-04-07T22:27:13.619277 WARNING memory_tracker - blinkdog: timeout: 2141.2616146478017 seconds overdue
+2021-04-07T22:28:05.594756 INFO memory_tracker - blinkdog: 76 jobs processed in last minute
+2021-04-07T22:28:32.229114 INFO tracker - nega: 38 jobs processed in last minute
+2021-04-07T22:30:07.901854 INFO tracker - olivas: 27 jobs processed in last minute
+2021-04-07T22:30:43.040948 WARNING memory_tracker - ric-evans: timeout: 1917.6718640225954 seconds overdue
+2021-04-07T22:31:06.340180 INFO memory_tracker - nega: 60 jobs processed in last minute
+2021-04-07T22:31:56.089697 WARNING memory_tracker - kjmeagher: timeout: 511.31951607014827 seconds overdue
+2021-04-07T22:33:17.592326 INFO memory_tracker - dglo: 12 jobs processed in last minute
+2021-04-07T22:33:44.545673 WARNING cpuhog - olivas: timeout: 2448.3513102421484 seconds overdue
+2021-04-07T22:35:08.359052 INFO cpuhog - austinschneider: 83 jobs processed in last minute
+2021-04-07T22:35:34.706107 INFO tracker - aludez: 90 jobs processed in last minute
+2021-04-07T22:37:05.893183 INFO tracker - jnbellinger: 8 jobs processed in last minute
+2021-04-07T22:38:03.513963 INFO memory_tracker - kjmeagher: 89 jobs processed in last minute
+2021-04-07T22:39:29.499216 INFO memory_tracker - olivas: 92 jobs processed in last minute
+2021-04-07T22:39:45.154455 INFO memory_tracker - colemanalan: 58 jobs processed in last minute
+2021-04-07T22:40:41.750646 WARNING root - aludez: timeout: 2826.0365552390654 seconds overdue
+2021-04-07T22:41:30.606350 ERROR memory_tracker - ric-evans: cpu error: 34.90 used
+2021-04-07T22:41:51.287236 INFO root - clark2668: 89 jobs processed in last minute
+2021-04-07T22:42:21.694891 INFO tracker - olivas: 18 jobs processed in last minute
+2021-04-07T22:43:45.976136 INFO memory_tracker - clark2668: 49 jobs processed in last minute
+2021-04-07T22:44:24.630789 INFO handlers - olivas: 28 jobs processed in last minute
+2021-04-07T22:45:35.522421 INFO root - colemanalan: 12 jobs processed in last minute
+2021-04-07T22:46:36.040294 INFO tracker - olivas: 87 jobs processed in last minute
+2021-04-07T22:47:23.297332 INFO root - dglo: 35 jobs processed in last minute
+2021-04-07T22:48:50.273023 INFO handlers - colemanalan: 79 jobs processed in last minute
+2021-04-07T22:50:14.592464 ERROR tracker - austinschneider: cpu error: 33.34 used
+2021-04-07T22:51:00.132242 INFO root - colemanalan: 50 jobs processed in last minute
+2021-04-07T22:51:28.523871 ERROR cpuhog - nega: cpu error: 37.92 used
+2021-04-07T22:51:50.834352 WARNING handlers - mskarl: timeout: 529.0902742339014 seconds overdue
+2021-04-07T22:53:25.492703 INFO handlers - jnbellinger: 59 jobs processed in last minute
+2021-04-07T22:54:00.827224 INFO handlers - colemanalan: 9 jobs processed in last minute
+2021-04-07T22:54:42.694803 INFO cpuhog - olivas: 96 jobs processed in last minute
+2021-04-07T22:55:53.141212 INFO handlers - nega: 62 jobs processed in last minute
+2021-04-07T22:56:26.893548 INFO memory_tracker - dglo: 90 jobs processed in last minute
+2021-04-07T22:57:38.752349 INFO handlers - blinkdog: 46 jobs processed in last minute
+2021-04-07T22:58:14.798043 INFO tracker - colemanalan: 25 jobs processed in last minute
+2021-04-07T22:59:28.367885 INFO memory_tracker - clark2668: 30 jobs processed in last minute
+2021-04-07T22:59:48.935918 INFO root - aludez: 83 jobs processed in last minute
+2021-04-07T23:01:03.703472 ERROR handlers - jnbellinger: cpu error: 34.42 used
+2021-04-07T23:02:21.656417 INFO tracker - colemanalan: 57 jobs processed in last minute
+2021-04-07T23:03:30.106535 INFO cpuhog - colemanalan: 27 jobs processed in last minute
+2021-04-07T23:05:07.742830 INFO handlers - jnbellinger: 81 jobs processed in last minute
+2021-04-07T23:06:39.573677 INFO root - olivas: 50 jobs processed in last minute
+2021-04-07T23:07:03.322073 INFO handlers - aludez: 83 jobs processed in last minute
+2021-04-07T23:07:35.801601 INFO root - clark2668: 90 jobs processed in last minute
+2021-04-07T23:08:20.443492 INFO memory_tracker - blinkdog: 32 jobs processed in last minute
+2021-04-07T23:09:22.015205 INFO cpuhog - blinkdog: 61 jobs processed in last minute
+2021-04-07T23:10:32.796144 INFO memory_tracker - olivas: 80 jobs processed in last minute
+2021-04-07T23:10:56.534629 INFO root - kjmeagher: 26 jobs processed in last minute
+2021-04-07T23:11:08.627448 INFO root - jnbellinger: 42 jobs processed in last minute
+2021-04-07T23:11:16.480265 INFO memory_tracker - jnbellinger: 2 jobs processed in last minute
+2021-04-07T23:12:00.991645 INFO cpuhog - austinschneider: 16 jobs processed in last minute
+2021-04-07T23:12:19.766360 INFO memory_tracker - jnbellinger: 53 jobs processed in last minute
+2021-04-07T23:13:15.977641 INFO cpuhog - clark2668: 75 jobs processed in last minute
+2021-04-07T23:14:45.545886 WARNING cpuhog - austinschneider: timeout: 1677.2488757451056 seconds overdue
+2021-04-07T23:15:23.474508 WARNING handlers - nega: timeout: 3148.74119449404 seconds overdue
+2021-04-07T23:17:02.563523 WARNING cpuhog - ric-evans: timeout: 2116.9769475744333 seconds overdue
+2021-04-07T23:18:14.626138 INFO tracker - dglo: 32 jobs processed in last minute
+2021-04-07T23:19:40.054088 WARNING handlers - olivas: timeout: 2529.7327948402954 seconds overdue
+2021-04-07T23:20:41.138554 INFO memory_tracker - dglo: 99 jobs processed in last minute
+2021-04-07T23:21:12.362518 WARNING root - nega: timeout: 689.9150434003767 seconds overdue
+2021-04-07T23:22:51.517715 WARNING memory_tracker - ric-evans: timeout: 2407.462873931205 seconds overdue
+2021-04-07T23:24:12.683868 INFO tracker - dglo: 46 jobs processed in last minute
+2021-04-07T23:24:22.216575 INFO root - mskarl: 1 jobs processed in last minute
+2021-04-07T23:24:44.634780 INFO cpuhog - aludez: 97 jobs processed in last minute
+2021-04-07T23:25:30.079829 INFO tracker - mskarl: 18 jobs processed in last minute
+2021-04-07T23:25:53.685657 INFO memory_tracker - ric-evans: 70 jobs processed in last minute
+2021-04-07T23:26:55.344958 INFO memory_tracker - colemanalan: 1 jobs processed in last minute
+2021-04-07T23:28:28.749946 INFO root - jnbellinger: 25 jobs processed in last minute
+2021-04-07T23:29:49.670062 INFO root - blinkdog: 36 jobs processed in last minute
+2021-04-07T23:31:04.860621 INFO memory_tracker - dglo: 74 jobs processed in last minute
+2021-04-07T23:31:26.136841 INFO tracker - dglo: 78 jobs processed in last minute
+2021-04-07T23:32:03.648497 ERROR tracker - aludez: cpu error: 34.19 used
+2021-04-07T23:32:06.658664 INFO handlers - blinkdog: 12 jobs processed in last minute
+2021-04-07T23:33:19.187031 INFO root - colemanalan: 30 jobs processed in last minute
+2021-04-07T23:34:42.714499 INFO handlers - aludez: 66 jobs processed in last minute
+2021-04-07T23:35:38.021464 ERROR memory_tracker - dglo: cpu error: 33.63 used
+2021-04-07T23:36:56.876623 INFO root - jnbellinger: 7 jobs processed in last minute
+2021-04-07T23:37:54.081284 ERROR root - clark2668: cpu error: 38.88 used
+2021-04-07T23:38:51.767056 INFO memory_tracker - kjmeagher: 77 jobs processed in last minute
+2021-04-07T23:39:47.958703 WARNING cpuhog - clark2668: timeout: 907.5516069414841 seconds overdue
+2021-04-07T23:41:11.089771 INFO memory_tracker - ric-evans: 14 jobs processed in last minute
+2021-04-07T23:42:21.177050 INFO tracker - kjmeagher: 45 jobs processed in last minute
+2021-04-07T23:43:30.690558 INFO cpuhog - olivas: 3 jobs processed in last minute
+2021-04-07T23:43:50.446377 WARNING tracker - mskarl: timeout: 3112.6121813966975 seconds overdue
+2021-04-07T23:44:48.382002 INFO cpuhog - nega: 87 jobs processed in last minute
+2021-04-07T23:45:04.201642 INFO root - colemanalan: 4 jobs processed in last minute
+2021-04-07T23:46:16.905864 WARNING handlers - kjmeagher: timeout: 1944.0273902287677 seconds overdue
+2021-04-07T23:46:38.273594 INFO tracker - kjmeagher: 15 jobs processed in last minute
+2021-04-07T23:47:53.024122 INFO root - kjmeagher: 29 jobs processed in last minute
+2021-04-07T23:49:03.394298 INFO root - kjmeagher: 46 jobs processed in last minute
+2021-04-07T23:49:13.533811 INFO memory_tracker - aludez: 51 jobs processed in last minute
+2021-04-07T23:50:15.532888 WARNING root - dglo: timeout: 612.5518220593599 seconds overdue
+2021-04-07T23:51:53.517590 INFO handlers - kjmeagher: 26 jobs processed in last minute
+2021-04-07T23:52:46.325730 WARNING cpuhog - blinkdog: timeout: 3599.403280772507 seconds overdue
+2021-04-07T23:53:41.996816 INFO root - olivas: 24 jobs processed in last minute
+2021-04-07T23:54:44.296941 INFO root - mskarl: 97 jobs processed in last minute
+2021-04-07T23:55:15.091931 INFO tracker - ric-evans: 71 jobs processed in last minute
+2021-04-07T23:56:52.264260 INFO memory_tracker - jnbellinger: 35 jobs processed in last minute
+2021-04-07T23:58:22.513597 WARNING memory_tracker - austinschneider: timeout: 89.61054043117373 seconds overdue
+2021-04-07T23:59:04.506143 WARNING tracker - austinschneider: timeout: 3150.450431035706 seconds overdue
+2021-04-08T00:00:37.260327 INFO handlers - clark2668: 6 jobs processed in last minute
+2021-04-08T00:01:17.728009 WARNING memory_tracker - kjmeagher: timeout: 1086.375795261401 seconds overdue
+2021-04-08T00:02:44.670776 WARNING cpuhog - mskarl: timeout: 540.8433156605502 seconds overdue
+2021-04-08T00:03:45.267761 INFO handlers - olivas: 27 jobs processed in last minute
+2021-04-08T00:05:12.933667 INFO cpuhog - aludez: 83 jobs processed in last minute
+2021-04-08T00:05:41.361405 INFO memory_tracker - olivas: 62 jobs processed in last minute
+2021-04-08T00:07:16.255425 WARNING memory_tracker - dglo: timeout: 1659.6245531223951 seconds overdue
+2021-04-08T00:08:36.708227 INFO cpuhog - aludez: 77 jobs processed in last minute
+2021-04-08T00:08:54.012461 INFO handlers - mskarl: 34 jobs processed in last minute
+2021-04-08T00:10:03.794798 INFO handlers - dglo: 66 jobs processed in last minute
+2021-04-08T00:10:03.884107 INFO memory_tracker - nega: 53 jobs processed in last minute
+2021-04-08T00:10:12.872972 INFO tracker - nega: 10 jobs processed in last minute
+2021-04-08T00:10:43.733032 WARNING handlers - jnbellinger: timeout: 2162.2651928252117 seconds overdue
+2021-04-08T00:12:14.003140 WARNING memory_tracker - jnbellinger: timeout: 802.2515110201301 seconds overdue
+2021-04-08T00:12:38.886449 INFO cpuhog - jnbellinger: 68 jobs processed in last minute
+2021-04-08T00:13:19.913877 ERROR cpuhog - olivas: cpu error: 34.03 used
+2021-04-08T00:14:51.932903 WARNING cpuhog - kjmeagher: timeout: 1838.1878330210238 seconds overdue
+2021-04-08T00:16:27.518787 INFO handlers - blinkdog: 3 jobs processed in last minute
+2021-04-08T00:17:03.610069 INFO root - aludez: 58 jobs processed in last minute
+2021-04-08T00:17:39.069462 INFO root - olivas: 17 jobs processed in last minute
+2021-04-08T00:18:03.645982 INFO memory_tracker - nega: 16 jobs processed in last minute
+2021-04-08T00:19:29.680913 INFO handlers - colemanalan: 58 jobs processed in last minute
+2021-04-08T00:19:52.213789 INFO root - nega: 15 jobs processed in last minute
+2021-04-08T00:20:20.762708 INFO handlers - nega: 100 jobs processed in last minute
+2021-04-08T00:21:31.744363 INFO tracker - aludez: 60 jobs processed in last minute
+2021-04-08T00:22:23.830897 WARNING tracker - kjmeagher: timeout: 2554.8194139044017 seconds overdue
+2021-04-08T00:23:42.433144 INFO handlers - mskarl: 5 jobs processed in last minute
+2021-04-08T00:25:12.049603 INFO tracker - colemanalan: 41 jobs processed in last minute
+2021-04-08T00:25:23.901133 INFO root - clark2668: 94 jobs processed in last minute
+2021-04-08T00:26:00.828742 WARNING root - jnbellinger: timeout: 2310.623160490764 seconds overdue
+2021-04-08T00:26:37.788605 ERROR memory_tracker - nega: cpu error: 37.32 used
+2021-04-08T00:28:08.618657 WARNING root - kjmeagher: timeout: 1978.6319122637021 seconds overdue
+2021-04-08T00:29:26.575052 WARNING memory_tracker - ric-evans: timeout: 1406.0228210079586 seconds overdue
+2021-04-08T00:29:55.327800 INFO memory_tracker - blinkdog: 71 jobs processed in last minute
+2021-04-08T00:31:33.799308 INFO cpuhog - colemanalan: 16 jobs processed in last minute
+2021-04-08T00:31:46.414631 INFO tracker - olivas: 17 jobs processed in last minute
+2021-04-08T00:32:37.779705 INFO tracker - aludez: 77 jobs processed in last minute
+2021-04-08T00:33:54.189401 INFO memory_tracker - ric-evans: 26 jobs processed in last minute
+2021-04-08T00:35:19.440728 INFO cpuhog - nega: 54 jobs processed in last minute
+2021-04-08T00:36:00.773234 INFO cpuhog - kjmeagher: 35 jobs processed in last minute
+2021-04-08T00:36:52.363388 INFO tracker - colemanalan: 4 jobs processed in last minute
+2021-04-08T00:38:15.914475 WARNING cpuhog - aludez: timeout: 1357.6859250770538 seconds overdue
+2021-04-08T00:39:18.554959 INFO memory_tracker - austinschneider: 89 jobs processed in last minute
+2021-04-08T00:40:29.600658 WARNING cpuhog - nega: timeout: 2974.059718501372 seconds overdue
+2021-04-08T00:41:25.087903 INFO root - kjmeagher: 89 jobs processed in last minute
+2021-04-08T00:42:48.427886 INFO tracker - nega: 71 jobs processed in last minute
+2021-04-08T00:43:03.708804 WARNING cpuhog - clark2668: timeout: 3105.94865428653 seconds overdue
+2021-04-08T00:44:16.492515 WARNING memory_tracker - jnbellinger: timeout: 2457.688309330727 seconds overdue
+2021-04-08T00:44:49.431782 INFO cpuhog - aludez: 90 jobs processed in last minute
+2021-04-08T00:45:36.791751 INFO cpuhog - kjmeagher: 59 jobs processed in last minute
+2021-04-08T00:46:40.970341 INFO memory_tracker - blinkdog: 40 jobs processed in last minute
+2021-04-08T00:47:55.002238 WARNING cpuhog - olivas: timeout: 2005.4753402798626 seconds overdue
+2021-04-08T00:48:55.921572 INFO tracker - jnbellinger: 7 jobs processed in last minute
+2021-04-08T00:50:34.272153 INFO root - jnbellinger: 96 jobs processed in last minute
+2021-04-08T00:51:17.388878 INFO tracker - kjmeagher: 46 jobs processed in last minute
+2021-04-08T00:52:41.962954 WARNING handlers - clark2668: timeout: 273.1290922944021 seconds overdue
+2021-04-08T00:53:02.668093 WARNING memory_tracker - ric-evans: timeout: 730.2430258449276 seconds overdue
+2021-04-08T00:54:28.995144 INFO root - ric-evans: 84 jobs processed in last minute
+2021-04-08T00:55:49.298649 WARNING memory_tracker - aludez: timeout: 3389.1543777543334 seconds overdue
+2021-04-08T00:56:24.482544 INFO memory_tracker - aludez: 88 jobs processed in last minute
+2021-04-08T00:58:04.166378 INFO tracker - nega: 44 jobs processed in last minute
+2021-04-08T00:59:19.288603 ERROR cpuhog - ric-evans: cpu error: 37.12 used
+2021-04-08T00:59:28.460532 INFO memory_tracker - dglo: 52 jobs processed in last minute
+2021-04-08T01:01:06.755646 INFO handlers - clark2668: 9 jobs processed in last minute
+2021-04-08T01:02:11.978335 INFO memory_tracker - colemanalan: 79 jobs processed in last minute
+2021-04-08T01:02:30.182661 ERROR memory_tracker - colemanalan: cpu error: 36.42 used
+2021-04-08T01:03:40.316829 WARNING memory_tracker - jnbellinger: timeout: 470.0615894920471 seconds overdue
+2021-04-08T01:03:52.334764 INFO root - ric-evans: 68 jobs processed in last minute
+2021-04-08T01:04:20.387961 INFO handlers - austinschneider: 61 jobs processed in last minute
+2021-04-08T01:05:21.766471 INFO root - kjmeagher: 93 jobs processed in last minute
+2021-04-08T01:06:34.072535 INFO handlers - dglo: 20 jobs processed in last minute
+2021-04-08T01:06:53.784827 INFO cpuhog - aludez: 99 jobs processed in last minute
+2021-04-08T01:08:32.346172 INFO memory_tracker - clark2668: 54 jobs processed in last minute
+2021-04-08T01:09:08.519979 INFO handlers - clark2668: 47 jobs processed in last minute
+2021-04-08T01:09:35.664250 INFO memory_tracker - ric-evans: 21 jobs processed in last minute
+2021-04-08T01:11:12.655157 INFO root - nega: 56 jobs processed in last minute
+2021-04-08T01:11:56.589448 WARNING handlers - dglo: timeout: 1277.408046342007 seconds overdue
+2021-04-08T01:11:58.912954 WARNING tracker - aludez: timeout: 1864.8331741611798 seconds overdue
+2021-04-08T01:12:58.007762 INFO handlers - jnbellinger: 18 jobs processed in last minute
+2021-04-08T01:13:21.366083 WARNING root - aludez: timeout: 3287.157830631317 seconds overdue
+2021-04-08T01:13:44.765601 ERROR root - jnbellinger: cpu error: 30.55 used
+2021-04-08T01:14:45.456607 INFO tracker - dglo: 98 jobs processed in last minute
+2021-04-08T01:15:14.096335 INFO cpuhog - aludez: 50 jobs processed in last minute
+2021-04-08T01:16:29.195278 INFO root - ric-evans: 37 jobs processed in last minute
+2021-04-08T01:17:00.044330 ERROR memory_tracker - kjmeagher: memory error: 9572767 KB used
+2021-04-08T01:17:26.310509 INFO tracker - colemanalan: 71 jobs processed in last minute
+2021-04-08T01:17:56.077873 WARNING root - austinschneider: timeout: 3508.0383421661863 seconds overdue
+2021-04-08T01:18:44.393576 INFO memory_tracker - nega: 22 jobs processed in last minute
+2021-04-08T01:18:47.534121 INFO root - blinkdog: 74 jobs processed in last minute
+2021-04-08T01:19:03.482665 INFO root - dglo: 65 jobs processed in last minute
+2021-04-08T01:20:17.032631 WARNING cpuhog - austinschneider: timeout: 2238.8544469230083 seconds overdue
+2021-04-08T01:21:18.620428 WARNING tracker - jnbellinger: timeout: 2618.50354194215 seconds overdue
+2021-04-08T01:22:14.688463 WARNING tracker - colemanalan: timeout: 3374.981708699784 seconds overdue
+2021-04-08T01:22:26.879180 INFO memory_tracker - olivas: 31 jobs processed in last minute
+2021-04-08T01:23:31.038903 INFO memory_tracker - dglo: 12 jobs processed in last minute
+2021-04-08T01:24:15.530140 INFO cpuhog - olivas: 93 jobs processed in last minute
+2021-04-08T01:25:05.687792 INFO cpuhog - ric-evans: 11 jobs processed in last minute
+2021-04-08T01:25:42.144969 INFO root - nega: 29 jobs processed in last minute
+2021-04-08T01:26:57.472065 WARNING tracker - jnbellinger: timeout: 1301.048646368499 seconds overdue
+2021-04-08T01:28:34.120799 WARNING tracker - clark2668: timeout: 616.9387748594128 seconds overdue
+2021-04-08T01:29:49.506948 WARNING tracker - kjmeagher: timeout: 3279.675105603673 seconds overdue
+2021-04-08T01:31:08.615089 INFO tracker - aludez: 76 jobs processed in last minute
+2021-04-08T01:32:00.407245 INFO handlers - jnbellinger: 63 jobs processed in last minute
+2021-04-08T01:33:05.826555 INFO tracker - nega: 11 jobs processed in last minute
+2021-04-08T01:34:20.322070 INFO memory_tracker - colemanalan: 65 jobs processed in last minute
+2021-04-08T01:35:30.305544 WARNING handlers - colemanalan: timeout: 1560.4608341004114 seconds overdue
+2021-04-08T01:35:35.384282 WARNING cpuhog - colemanalan: timeout: 2458.0898498297374 seconds overdue
+2021-04-08T01:36:36.525392 INFO root - dglo: 13 jobs processed in last minute
+2021-04-08T01:37:40.731606 WARNING tracker - dglo: timeout: 754.7368193346985 seconds overdue
+2021-04-08T01:39:02.873576 INFO handlers - ric-evans: 80 jobs processed in last minute
+2021-04-08T01:39:18.005209 INFO memory_tracker - blinkdog: 93 jobs processed in last minute
+2021-04-08T01:40:18.308823 WARNING handlers - olivas: timeout: 1805.9144457054801 seconds overdue
+2021-04-08T01:40:56.163877 INFO tracker - nega: 88 jobs processed in last minute
+2021-04-08T01:41:22.975194 INFO cpuhog - dglo: 23 jobs processed in last minute
+2021-04-08T01:42:42.455047 INFO handlers - ric-evans: 96 jobs processed in last minute
+2021-04-08T01:42:46.225148 INFO tracker - ric-evans: 13 jobs processed in last minute
+2021-04-08T01:42:57.057580 ERROR cpuhog - blinkdog: memory error: 9285248 KB used
+2021-04-08T01:44:03.884105 INFO memory_tracker - blinkdog: 96 jobs processed in last minute
+2021-04-08T01:45:06.486032 INFO root - ric-evans: 84 jobs processed in last minute
+2021-04-08T01:45:25.954266 INFO cpuhog - nega: 13 jobs processed in last minute
+2021-04-08T01:45:59.889952 INFO tracker - dglo: 87 jobs processed in last minute
+2021-04-08T01:47:30.158935 INFO tracker - mskarl: 18 jobs processed in last minute
+2021-04-08T01:48:19.821575 INFO memory_tracker - kjmeagher: 57 jobs processed in last minute
+2021-04-08T01:49:47.369385 INFO tracker - blinkdog: 31 jobs processed in last minute
+2021-04-08T01:49:50.790061 WARNING memory_tracker - aludez: timeout: 1233.950745066064 seconds overdue
+2021-04-08T01:50:53.458574 INFO memory_tracker - nega: 74 jobs processed in last minute
+2021-04-08T01:52:09.289396 WARNING cpuhog - aludez: timeout: 3501.7129887662954 seconds overdue
+2021-04-08T01:53:12.756803 INFO tracker - mskarl: 82 jobs processed in last minute
+2021-04-08T01:54:03.169999 WARNING tracker - nega: timeout: 110.11032398849636 seconds overdue
+2021-04-08T01:55:04.783202 INFO memory_tracker - blinkdog: 56 jobs processed in last minute
+2021-04-08T01:56:19.963980 INFO tracker - austinschneider: 86 jobs processed in last minute
+2021-04-08T01:57:13.798911 INFO handlers - aludez: 12 jobs processed in last minute
+2021-04-08T01:57:21.628501 INFO handlers - clark2668: 51 jobs processed in last minute
+2021-04-08T01:58:43.989089 INFO root - kjmeagher: 52 jobs processed in last minute
+2021-04-08T01:59:34.418466 WARNING memory_tracker - nega: timeout: 2882.9192903190433 seconds overdue
+2021-04-08T01:59:51.412291 INFO tracker - jnbellinger: 37 jobs processed in last minute
+2021-04-08T02:00:16.163004 WARNING handlers - dglo: timeout: 3025.037491293696 seconds overdue
+2021-04-08T02:00:30.467183 WARNING handlers - colemanalan: timeout: 2876.7218095428184 seconds overdue
+2021-04-08T02:01:05.124094 INFO memory_tracker - aludez: 85 jobs processed in last minute
+2021-04-08T02:01:47.294313 INFO root - nega: 72 jobs processed in last minute
+2021-04-08T02:01:55.305937 INFO tracker - blinkdog: 98 jobs processed in last minute
+2021-04-08T02:02:14.194395 INFO root - austinschneider: 62 jobs processed in last minute
+2021-04-08T02:03:38.627385 INFO root - austinschneider: 42 jobs processed in last minute
+2021-04-08T02:05:07.704344 INFO handlers - aludez: 48 jobs processed in last minute
+2021-04-08T02:05:34.421125 INFO handlers - clark2668: 91 jobs processed in last minute
+2021-04-08T02:07:14.160781 INFO handlers - aludez: 48 jobs processed in last minute
+2021-04-08T02:08:23.672473 INFO tracker - olivas: 41 jobs processed in last minute
+2021-04-08T02:09:15.897611 ERROR cpuhog - jnbellinger: cpu error: 32.96 used
+2021-04-08T02:10:06.850800 WARNING root - clark2668: timeout: 1726.9830683727237 seconds overdue
+2021-04-08T02:10:23.500627 WARNING cpuhog - colemanalan: timeout: 2064.7760335361572 seconds overdue
+2021-04-08T02:11:17.508099 INFO root - nega: 49 jobs processed in last minute
+2021-04-08T02:12:41.973904 INFO memory_tracker - kjmeagher: 33 jobs processed in last minute
+2021-04-08T02:13:28.247274 INFO root - clark2668: 52 jobs processed in last minute
+2021-04-08T02:13:36.437691 INFO tracker - nega: 72 jobs processed in last minute
+2021-04-08T02:14:25.253787 INFO memory_tracker - kjmeagher: 2 jobs processed in last minute
+2021-04-08T02:15:49.630371 INFO memory_tracker - dglo: 98 jobs processed in last minute
+2021-04-08T02:16:10.776625 WARNING root - dglo: timeout: 3222.4128362714946 seconds overdue
+2021-04-08T02:16:23.027159 WARNING tracker - blinkdog: timeout: 3229.5679614654205 seconds overdue
+2021-04-08T02:16:53.986172 INFO cpuhog - clark2668: 61 jobs processed in last minute
+2021-04-08T02:18:11.952122 INFO root - ric-evans: 84 jobs processed in last minute
+2021-04-08T02:18:16.054370 INFO root - jnbellinger: 21 jobs processed in last minute
+2021-04-08T02:19:12.999217 INFO memory_tracker - austinschneider: 31 jobs processed in last minute
+2021-04-08T02:20:10.279861 INFO memory_tracker - blinkdog: 38 jobs processed in last minute
+2021-04-08T02:20:15.540508 INFO root - dglo: 75 jobs processed in last minute
+2021-04-08T02:21:48.257329 ERROR cpuhog - austinschneider: memory error: 8953269 KB used
+2021-04-08T02:22:41.219338 ERROR cpuhog - jnbellinger: memory error: 7490485 KB used
+2021-04-08T02:22:56.361412 INFO handlers - olivas: 19 jobs processed in last minute
+2021-04-08T02:23:16.331239 INFO memory_tracker - austinschneider: 80 jobs processed in last minute
+2021-04-08T02:23:19.308533 WARNING root - nega: timeout: 455.06241943182044 seconds overdue
+2021-04-08T02:24:41.662170 INFO root - ric-evans: 73 jobs processed in last minute
+2021-04-08T02:25:16.483560 INFO memory_tracker - colemanalan: 17 jobs processed in last minute
+2021-04-08T02:25:47.901730 WARNING root - jnbellinger: timeout: 673.1730847488316 seconds overdue
+2021-04-08T02:27:26.126616 INFO cpuhog - austinschneider: 64 jobs processed in last minute
+2021-04-08T02:27:57.326546 INFO handlers - austinschneider: 56 jobs processed in last minute
+2021-04-08T02:28:21.366269 INFO memory_tracker - jnbellinger: 100 jobs processed in last minute
+2021-04-08T02:29:25.093986 ERROR handlers - olivas: cpu error: 35.35 used
+2021-04-08T02:29:40.766020 INFO memory_tracker - aludez: 78 jobs processed in last minute
+2021-04-08T02:30:15.454680 WARNING root - nega: timeout: 2817.05091313487 seconds overdue
+2021-04-08T02:31:15.063250 INFO tracker - dglo: 12 jobs processed in last minute
+2021-04-08T02:32:24.950164 INFO handlers - colemanalan: 31 jobs processed in last minute
+2021-04-08T02:33:19.595657 INFO cpuhog - jnbellinger: 81 jobs processed in last minute
+2021-04-08T02:34:17.287921 INFO root - blinkdog: 49 jobs processed in last minute
+2021-04-08T02:35:07.515554 INFO cpuhog - kjmeagher: 68 jobs processed in last minute
+2021-04-08T02:36:04.763881 INFO tracker - austinschneider: 46 jobs processed in last minute
+2021-04-08T02:36:49.564541 INFO root - nega: 61 jobs processed in last minute
+2021-04-08T02:38:25.811607 INFO root - ric-evans: 60 jobs processed in last minute
+2021-04-08T02:39:51.380093 WARNING cpuhog - blinkdog: timeout: 1689.1335447096733 seconds overdue
+2021-04-08T02:41:19.099576 INFO handlers - ric-evans: 69 jobs processed in last minute
+2021-04-08T02:42:12.720229 INFO tracker - aludez: 40 jobs processed in last minute
+2021-04-08T02:43:04.405487 INFO root - clark2668: 38 jobs processed in last minute
+2021-04-08T02:44:05.822647 INFO root - jnbellinger: 77 jobs processed in last minute
+2021-04-08T02:44:59.151906 INFO tracker - colemanalan: 4 jobs processed in last minute
+2021-04-08T02:46:05.032229 INFO tracker - dglo: 77 jobs processed in last minute
+2021-04-08T02:47:08.846342 WARNING tracker - aludez: timeout: 779.1216269935593 seconds overdue
+2021-04-08T02:48:10.081058 INFO cpuhog - blinkdog: 60 jobs processed in last minute
+2021-04-08T02:49:10.360276 INFO tracker - blinkdog: 51 jobs processed in last minute
+2021-04-08T02:49:19.407070 INFO tracker - clark2668: 40 jobs processed in last minute
+2021-04-08T02:50:10.892832 WARNING root - jnbellinger: timeout: 622.1403707224846 seconds overdue
+2021-04-08T02:50:54.156887 INFO root - blinkdog: 23 jobs processed in last minute
+2021-04-08T02:51:33.368399 INFO root - nega: 11 jobs processed in last minute
+2021-04-08T02:51:37.845725 INFO root - jnbellinger: 100 jobs processed in last minute
+2021-04-08T02:51:47.285904 ERROR cpuhog - aludez: cpu error: 36.76 used
+2021-04-08T02:52:46.694664 INFO handlers - ric-evans: 26 jobs processed in last minute
+2021-04-08T02:53:43.537232 WARNING cpuhog - colemanalan: timeout: 3310.860151909514 seconds overdue
+2021-04-08T02:55:12.232632 INFO root - blinkdog: 86 jobs processed in last minute
+2021-04-08T02:55:49.125069 INFO cpuhog - blinkdog: 59 jobs processed in last minute
+2021-04-08T02:56:26.399366 WARNING cpuhog - ric-evans: timeout: 2815.809502979609 seconds overdue
+2021-04-08T02:56:29.611113 INFO memory_tracker - mskarl: 58 jobs processed in last minute
+2021-04-08T02:56:58.030687 WARNING root - colemanalan: timeout: 746.6261445102558 seconds overdue
+2021-04-08T02:58:30.164187 ERROR tracker - olivas: memory error: 6738811 KB used
+2021-04-08T02:59:10.468936 INFO tracker - olivas: 94 jobs processed in last minute
+2021-04-08T02:59:55.762810 WARNING root - kjmeagher: timeout: 2361.3282419411175 seconds overdue
+2021-04-08T03:00:13.460367 INFO handlers - clark2668: 85 jobs processed in last minute
+2021-04-08T03:01:42.811693 INFO memory_tracker - jnbellinger: 56 jobs processed in last minute
+2021-04-08T03:02:45.817591 INFO tracker - ric-evans: 3 jobs processed in last minute
+2021-04-08T03:03:13.689276 INFO memory_tracker - clark2668: 29 jobs processed in last minute
+2021-04-08T03:04:24.033237 INFO memory_tracker - ric-evans: 71 jobs processed in last minute
+2021-04-08T03:04:28.569624 INFO cpuhog - blinkdog: 7 jobs processed in last minute
+2021-04-08T03:04:35.019732 WARNING memory_tracker - kjmeagher: timeout: 2212.807281090902 seconds overdue
+2021-04-08T03:04:37.450052 WARNING root - blinkdog: timeout: 3395.622810078506 seconds overdue
+2021-04-08T03:04:57.484253 WARNING root - clark2668: timeout: 1101.5239278682766 seconds overdue
+2021-04-08T03:05:41.635314 INFO tracker - olivas: 44 jobs processed in last minute
+2021-04-08T03:07:15.992716 WARNING root - blinkdog: timeout: 1638.0349724614634 seconds overdue
+2021-04-08T03:08:25.133351 ERROR memory_tracker - ric-evans: memory error: 6172631 KB used
+2021-04-08T03:09:09.414956 INFO root - blinkdog: 97 jobs processed in last minute
+2021-04-08T03:09:10.442699 INFO tracker - jnbellinger: 18 jobs processed in last minute
+2021-04-08T03:09:17.717356 INFO handlers - ric-evans: 37 jobs processed in last minute
+2021-04-08T03:09:32.110716 INFO tracker - jnbellinger: 47 jobs processed in last minute
+2021-04-08T03:09:32.681911 INFO root - olivas: 13 jobs processed in last minute
+2021-04-08T03:10:52.608320 INFO cpuhog - ric-evans: 27 jobs processed in last minute
+2021-04-08T03:10:59.262608 INFO tracker - mskarl: 61 jobs processed in last minute
+2021-04-08T03:12:09.269083 ERROR root - austinschneider: cpu error: 33.70 used
+2021-04-08T03:13:16.616374 ERROR memory_tracker - olivas: memory error: 6068681 KB used
+2021-04-08T03:14:52.349328 INFO cpuhog - austinschneider: 74 jobs processed in last minute
+2021-04-08T03:15:24.822050 INFO handlers - ric-evans: 11 jobs processed in last minute
+2021-04-08T03:16:37.984182 WARNING root - colemanalan: timeout: 3460.0262113405975 seconds overdue
+2021-04-08T03:17:18.813706 INFO tracker - olivas: 49 jobs processed in last minute
