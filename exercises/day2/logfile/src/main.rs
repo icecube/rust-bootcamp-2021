@@ -66,7 +66,7 @@ fn print_usage() {
     println!("usage: logfile [--after TIME] [--before TIME] [--level LEVEL] [--logger LOGGER] [--user USER] [--memory] logfile");
     println!("");
     println!("positional arguments:");
-    println!("  log            log file to parse");
+    println!("  log              log file to parse");
     println!("");
     println!("optional arguments:");
     println!("  --after TIME     display traces after timestamp");
