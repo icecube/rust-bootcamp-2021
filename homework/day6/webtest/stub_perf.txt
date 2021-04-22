@@ -1,0 +1,69 @@
+$ PORT=8090 ./run.sh
+Goal: 100 requests/s
+Running 20s test @ http://127.0.0.1:8090/index.html
+  1 threads and 10 connections
+  Thread calibration: mean lat.: 68.765ms, rate sampling interval: 183ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    68.68ms   25.58ms  96.77ms   80.00%
+    Req/Sec    99.81     20.49   109.00     83.33%
+  1992 requests in 20.00s, 36.96KB read
+Requests/sec:     99.59
+Transfer/sec:      1.85KB
+
+Goal: 1000 requests/s
+Running 20s test @ http://127.0.0.1:8090/index.html
+  1 threads and 100 connections
+  Thread calibration: mean lat.: 3.787ms, rate sampling interval: 13ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     3.90ms    1.98ms   8.72ms   63.77%
+    Req/Sec     1.03k     2.39k    8.33k    85.60%
+  19002 requests in 20.00s, 352.59KB read
+Requests/sec:    949.99
+Transfer/sec:     17.63KB
+
+Goal: 10000 requests/s
+Running 25s test @ http://127.0.0.1:8090/index.html
+  2 threads and 500 connections
+  Thread calibration: mean lat.: 544.487ms, rate sampling interval: 6152ms
+  Thread calibration: mean lat.: 552.965ms, rate sampling interval: 6152ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     5.04s     4.86s   16.99s    77.45%
+    Req/Sec     1.49k   220.06     1.68k    75.00%
+  63795 requests in 25.00s, 1.16MB read
+  Socket errors: connect 0, read 0, write 0, timeout 4278
+Requests/sec:   2551.73
+Transfer/sec:     47.35KB
+
+Goal: 100000 requests/s
+Running 30s test @ http://127.0.0.1:8090/index.html
+  4 threads and 1000 connections
+  Thread calibration: mean lat.: 1942.651ms, rate sampling interval: 8978ms
+  Thread calibration: mean lat.: 1973.307ms, rate sampling interval: 9469ms
+  Thread calibration: mean lat.: 1128.331ms, rate sampling interval: 6111ms
+  Thread calibration: mean lat.: 2146.228ms, rate sampling interval: 8921ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    10.84s     6.30s   24.77s    62.73%
+    Req/Sec     2.37k     1.13k    3.99k    55.56%
+  327905 requests in 31.26s, 5.94MB read
+  Socket errors: connect 0, read 60, write 0, timeout 12512
+Requests/sec:  10490.43
+Transfer/sec:    194.65KB
+
+Goal: 500000 requests/s
+Running 30s test @ http://127.0.0.1:8090/index.html
+  8 threads and 1000 connections
+  Thread calibration: mean lat.: 9223372036854776.000ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.267ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.346ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.174ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.943ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 5.043ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.399ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 4.164ms, rate sampling interval: 10ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     9.90s     1.57s   16.11s    79.73%
+    Req/Sec     3.42k     7.12k   32.89k    81.03%
+  523465 requests in 30.64s, 9.49MB read
+  Socket errors: connect 0, read 64, write 0, timeout 14092
+Requests/sec:  17087.03
+Transfer/sec:    317.04KB
